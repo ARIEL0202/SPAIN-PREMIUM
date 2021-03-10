@@ -1,6 +1,72 @@
+#EXTINF:-1,------- Movies & Series -------
+http://ipflix.click:8080/Ester/s9mdb4ez9y/679812
+#EXTINF:-1,AXN ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/13543
+#EXTINF:-1,AXN White ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/13542
+#EXTINF:-1,AMC FHD ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/7255
+#EXTINF:-1,SyFy HD ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/13523
+#EXTINF:-1,Fox ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/7220
+#EXTINF:-1,Fox Life ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/7219
+#EXTINF:-1,TNT FHD ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/7177
+#EXTINF:-1,XTRM FHD VIP ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/683549
+#EXTINF:-1,Warner Bross HD 
+http://ipflix.click:8080/Ester/s9mdb4ez9y/15628
+#EXTINF:-1,TCM HD ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/7180
+#EXTINF:-1,Movistar Comedia HD ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/7194
+#EXTINF:-1,Movistar Cine ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/13530
+#EXTINF:-1,Taquilla 1 ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/8756
+#EXTINF:-1,Taquilla 2 ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/8755
+#EXTINF:-1,Taquilla 3 ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/8754
+#EXTINF:-1,Taquilla 4 HD ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/7208
+#EXTINF:-1,Taquilla 5 ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/8752
+#EXTINF:-1,Taquilla 6 ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/8751
+#EXTINF:-1,Taquilla 7 ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/8750
+#EXTINF:-1,Taquilla 8 ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/13520
 
-
-
+#EXTINF:-1,------- Documentary -------
+http://ipflix.click:8080/Ester/s9mdb4ez9y/679813
+#EXTINF:-1,Discovery Channel 
+http://ipflix.click:8080/Ester/s9mdb4ez9y/21323
+#EXTINF:-1,Discovery Channel ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/7226
+#EXTINF:-1,National Geographic ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/16270
+#EXTINF:-1,Nat Geo Wild ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/7188
+#EXTINF:-1,Historia ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/7217
+#EXTINF:-1,Canal Cocina ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/7244
+#EXTINF:-1,Dkiss HD ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/13533
+#EXTINF:-1,Mega ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/8760
+#EXTINF:-1,Blaze ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/7184
+#EXTINF:-1,Iberalia ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/7171
+#EXTINF:-1,Ten ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/13518
+#EXTINF:-1,Mezzo HD ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/7212
 
 #EXTINF:-1,LA1 HD ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/8782
@@ -91,76 +157,6 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/13531
 http://ipflix.click:8080/Ester/s9mdb4ez9y/629053
 #EXTINF:-1,Fox Sports 2 HD 
 http://ipflix.click:8080/Ester/s9mdb4ez9y/15658
-
-#EXTINF:-1,------- Movies & Series -------
-http://ipflix.click:8080/Ester/s9mdb4ez9y/679812
-#EXTINF:-1,AXN ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13543
-#EXTINF:-1,AXN White ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13542
-#EXTINF:-1,AMC FHD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7255
-#EXTINF:-1,SyFy HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13523
-#EXTINF:-1,Fox ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7220
-#EXTINF:-1,Fox Life ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7219
-#EXTINF:-1,TNT FHD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7177
-#EXTINF:-1,XTRM FHD VIP ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/683549
-#EXTINF:-1,Warner Bross HD 
-http://ipflix.click:8080/Ester/s9mdb4ez9y/15628
-#EXTINF:-1,TCM HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7180
-#EXTINF:-1,Movistar Comedia HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7194
-#EXTINF:-1,Movistar Cine ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13530
-#EXTINF:-1,Taquilla 1 ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8756
-#EXTINF:-1,Taquilla 2 ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8755
-#EXTINF:-1,Taquilla 3 ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8754
-#EXTINF:-1,Taquilla 4 HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7208
-#EXTINF:-1,Taquilla 5 ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8752
-#EXTINF:-1,Taquilla 6 ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8751
-#EXTINF:-1,Taquilla 7 ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8750
-#EXTINF:-1,Taquilla 8 ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13520
-
-#EXTINF:-1,------- Documentary -------
-http://ipflix.click:8080/Ester/s9mdb4ez9y/679813
-#EXTINF:-1,Discovery Channel 
-http://ipflix.click:8080/Ester/s9mdb4ez9y/21323
-#EXTINF:-1,Discovery Channel ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7226
-#EXTINF:-1,National Geographic ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/16270
-#EXTINF:-1,Nat Geo Wild ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7188
-#EXTINF:-1,Historia ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7217
-#EXTINF:-1,Canal Cocina ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7244
-#EXTINF:-1,Dkiss HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13533
-#EXTINF:-1,Mega ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8760
-#EXTINF:-1,Blaze ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7184
-#EXTINF:-1,Iberalia ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7171
-#EXTINF:-1,Ten ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13518
-#EXTINF:-1,Mezzo HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7212
 
 #EXTINF:-1,------- Children -------
 http://ipflix.click:8080/Ester/s9mdb4ez9y/679814
