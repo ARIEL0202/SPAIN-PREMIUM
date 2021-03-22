@@ -1,4 +1,7 @@
-http://ipflix.click:8080/Ester/s9mdb4ez9y/679812
+#EXTINF:-1,AMC LAM
+http://ipflix.click:8080/Ester/s9mdb4ez9y/6674
+#EXTINF:-1,AXN LAM
+http://ipflix.click:8080/Ester/s9mdb4ez9y/6762
 #EXTINF:-1,AXN ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/13543
 #EXTINF:-1,AXN White ES
@@ -7,6 +10,8 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/13542
 http://ipflix.click:8080/Ester/s9mdb4ez9y/7255
 #EXTINF:-1,SyFy HD ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/13523
+#EXTINF:-1,SyFy FHD LAM
+http://ipflix.click:8080/Ester/s9mdb4ez9y/6742
 #EXTINF:-1,Fox ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/7220
 #EXTINF:-1,Fox Life ES
@@ -17,8 +22,20 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/7177
 http://ipflix.click:8080/Ester/s9mdb4ez9y/683549
 #EXTINF:-1,Warner Bross HD 
 http://ipflix.click:8080/Ester/s9mdb4ez9y/15628
+#EXTINF:-1,Fox Action FHD LAM
+http://ipflix.click:8080/Ester/s9mdb4ez9y/6714
+#EXTINF:-1,Fox Cinema LAM
+http://ipflix.click:8080/Ester/s9mdb4ez9y/6715
+#EXTINF:-1,Fox Life LAM
+http://ipflix.click:8080/Ester/s9mdb4ez9y/6719
+#EXTINF:-1,Space FHD MX
+http://ipflix.click:8080/Ester/s9mdb4ez9y/6740
+#EXTINF:-1,Studio Universal MX
+http://ipflix.click:8080/Ester/s9mdb4ez9y/6741
 #EXTINF:-1,TCM HD ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/7180
+#EXTINF:-1,TCM LAM
+http://ipflix.click:8080/Ester/s9mdb4ez9y/6758
 #EXTINF:-1,Movistar Comedia HD ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/7194
 #EXTINF:-1,Movistar Cine ES
@@ -42,6 +59,10 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/13520
 
 #EXTINF:-1,------- Documentary -------
 http://ipflix.click:8080/Ester/s9mdb4ez9y/679813
+#EXTINF:-1,Animal Planet LAM
+http://ipflix.click:8080/Ester/s9mdb4ez9y/6675
+#EXTINF:-1,Discovery Civilization LAM
+http://ipflix.click:8080/Ester/s9mdb4ez9y/6695
 #EXTINF:-1,Discovery Channel 
 http://ipflix.click:8080/Ester/s9mdb4ez9y/21323
 #EXTINF:-1,Discovery Channel ES
@@ -124,6 +145,17 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/8765
 
 #EXTINF:-1,------- Sports -------
 http://ipflix.click:8080/Ester/s9mdb4ez9y/679811
+#EXTINF:-1,ESPN 2 LAM
+http://ipflix.click:8080/Ester/s9mdb4ez9y/6709
+#EXTINF:-1,TYC ARG
+http://ipflix.click:8080/Ester/s9mdb4ez9y/626909
+#EXTINF:-1,Fox Sports 1 HD ARG
+http://ipflix.click:8080/Ester/s9mdb4ez9y/626925
+#EXTINF:-1,Fox Sport 2 LAM
+http://ipflix.click:8080/Ester/s9mdb4ez9y/67132
+#EXTINF:-1,Fox Sports 2 HD 
+http://ipflix.click:8080/Ester/s9mdb4ez9y/15658
+
 #EXTINF:-1,beIN Sports Espana ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/13540
 #EXTINF:-1,Movistar La Liga FHD ES
@@ -154,8 +186,6 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/8746
 http://ipflix.click:8080/Ester/s9mdb4ez9y/13531
 #EXTINF:-1,Win Sports CO
 http://ipflix.click:8080/Ester/s9mdb4ez9y/629053
-#EXTINF:-1,Fox Sports 2 HD 
-http://ipflix.click:8080/Ester/s9mdb4ez9y/15658
 
 #EXTINF:-1,------- Children -------
 http://ipflix.click:8080/Ester/s9mdb4ez9y/679814
@@ -165,6 +195,8 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/7225
 http://ipflix.click:8080/Ester/s9mdb4ez9y/7224
 #EXTINF:-1,Nickelodeon ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/7185
+#EXTINF:-1,Nickelodeon LAM
+http://ipflix.click:8080/Ester/s9mdb4ez9y/6736
 #EXTINF:-1,Nick Jr. ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/13526
 #EXTINF:-1,Boing ES
@@ -173,14 +205,3 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/8773
 http://ipflix.click:8080/Ester/s9mdb4ez9y/7231
 #EXTINF:-1,Boomerang 
 http://ipflix.click:8080/Ester/s9mdb4ez9y/21340
-
-#EXTINF:-1,Canal Capital 
-http://ipflix.click:8080/Ester/s9mdb4ez9y/15673
-#EXTINF:-1,Canal Wow TV HD 
-http://ipflix.click:8080/Ester/s9mdb4ez9y/15670
-#EXTINF:-1,Caracol HD 
-http://ipflix.click:8080/Ester/s9mdb4ez9y/15668
-#EXTINF:-1,RCN CO
-http://ipflix.click:8080/Ester/s9mdb4ez9y/50891
-#EXTINF:-1,Senal Colombia HD CO
-http://ipflix.click:8080/Ester/s9mdb4ez9y/629054
