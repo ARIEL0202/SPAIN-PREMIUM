@@ -37,7 +37,7 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/7180
 #EXTINF:-1,TCM LAM
 http://ipflix.click:8080/Ester/s9mdb4ez9y/6758
 #EXTINF:-1,Movistar Comedia HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7194
+http://ipflix.click:8080/Ester/s9mdb4ez9y/7194  
 #EXTINF:-1,Movistar Cine ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/13530
 #EXTINF:-1,Taquilla 1 ES
