@@ -20,14 +20,6 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/7219
 http://ipflix.click:8080/Ester/s9mdb4ez9y/7177
 #EXTINF:-1,XTRM FHD VIP ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/683549
-#EXTINF:-1,Warner Bross HD 
-http://ipflix.click:8080/Ester/s9mdb4ez9y/15628
-#EXTINF:-1,Fox Action FHD LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6714
-#EXTINF:-1,Fox Cinema LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6715
-#EXTINF:-1,Fox Life LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6719
 #EXTINF:-1,Space FHD MX
 http://ipflix.click:8080/Ester/s9mdb4ez9y/6740
 #EXTINF:-1,Studio Universal MX
@@ -36,22 +28,12 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/6741
 http://ipflix.click:8080/Ester/s9mdb4ez9y/7180
 #EXTINF:-1,TCM LAM
 http://ipflix.click:8080/Ester/s9mdb4ez9y/6758
-#EXTINF:-1,Movistar Comedia HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7194  
 #EXTINF:-1,Movistar Cine ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/13530
-#EXTINF:-1,Taquilla 1 ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8756
 #EXTINF:-1,Taquilla 2 ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/8755
-#EXTINF:-1,Taquilla 3 ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8754
-#EXTINF:-1,Taquilla 4 HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7208
 #EXTINF:-1,Taquilla 5 ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/8752
-#EXTINF:-1,Taquilla 6 ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8751
 #EXTINF:-1,Taquilla 7 ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/8750
 #EXTINF:-1,Taquilla 8 ES
@@ -63,8 +45,6 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/679813
 http://ipflix.click:8080/Ester/s9mdb4ez9y/6675
 #EXTINF:-1,Discovery Civilization LAM
 http://ipflix.click:8080/Ester/s9mdb4ez9y/6695
-#EXTINF:-1,Discovery Channel 
-http://ipflix.click:8080/Ester/s9mdb4ez9y/21323
 #EXTINF:-1,Discovery Channel ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/7226
 #EXTINF:-1,National Geographic ES
@@ -73,16 +53,14 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/16270
 http://ipflix.click:8080/Ester/s9mdb4ez9y/7188
 #EXTINF:-1,Historia ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/7217
+#EXTINF:-1,Iberalia ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/7171
 #EXTINF:-1,Canal Cocina ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/7244
 #EXTINF:-1,Dkiss HD ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/13533
 #EXTINF:-1,Mega ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/8760
-#EXTINF:-1,Blaze ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7184
-#EXTINF:-1,Iberalia ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7171
 #EXTINF:-1,Ten ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/13518
 #EXTINF:-1,Mezzo HD ES
@@ -112,18 +90,12 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/8770
 http://ipflix.click:8080/Ester/s9mdb4ez9y/13547
 #EXTINF:-1,8TV Madrid ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/13545
-#EXTINF:-1,RTVA ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8775
 #EXTINF:-1,XTRM HD ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/13527
 #EXTINF:-1,Be Mad TV ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/683552
-#EXTINF:-1,Viajar FHD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7170
 #EXTINF:-1,ETB SAT ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/684922
-#EXTINF:-1,ETB 1 ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/684921
 #EXTINF:-1,ETB 2 ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/684923
 #EXTINF:-1,Neox TV ES
@@ -136,8 +108,6 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/7247
 http://ipflix.click:8080/Ester/s9mdb4ez9y/7230
 #EXTINF:-1,A3 Series ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/13544
-#EXTINF:-1,Nova HD VIP ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/684927
 #EXTINF:-1,Divinity HD ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/13534
 #EXTINF:-1,Energy ES
@@ -155,17 +125,10 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/626925
 http://ipflix.click:8080/Ester/s9mdb4ez9y/67132
 #EXTINF:-1,Fox Sports 2 HD 
 http://ipflix.click:8080/Ester/s9mdb4ez9y/15658
-
 #EXTINF:-1,beIN Sports Espana ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/13540
-#EXTINF:-1,Movistar La Liga FHD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/16274
-#EXTINF:-1,Movistar La Liga 1 [Match Time] ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/683144
 #EXTINF:-1,Movistar La Liga 2 [Match Time] ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/683145
-#EXTINF:-1,Movistar La Liga 10 [Match Time] ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/683152
 #EXTINF:-1,Movistar Liga De Campeones HD ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/620685
 #EXTINF:-1,Movistar Liga De Campeones 1 [Match Time] HD ES
@@ -205,3 +168,12 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/8773
 http://ipflix.click:8080/Ester/s9mdb4ez9y/7231
 #EXTINF:-1,Boomerang 
 http://ipflix.click:8080/Ester/s9mdb4ez9y/21340
+
+#EXTINF:-1,Taquilla 1 ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/8756
+#EXTINF:-1,Taquilla 6 ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/8751
+#EXTINF:-1,Taquilla 3 ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/8754
+#EXTINF:-1,Taquilla 4 HD ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/7208
