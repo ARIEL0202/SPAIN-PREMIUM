@@ -30,6 +30,8 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/7180
 http://ipflix.click:8080/Ester/s9mdb4ez9y/6758
 #EXTINF:-1,Movistar Cine ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/13530
+#EXTINF:-1,Movistar Series
+http://ipflix.click:8080/Ester/s9mdb4ez9y/8770
 #EXTINF:-1,Taquilla 2 ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/8755
 #EXTINF:-1,Taquilla 5 ES
@@ -82,11 +84,9 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/14022
 http://ipflix.click:8080/Ester/s9mdb4ez9y/7174
 #EXTINF:-1,DW ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/13532
-#EXTINF:-1,Andalucia ES
+#EXTINF:-1,Andalucia TV
 http://ipflix.click:8080/Ester/s9mdb4ez9y/7254
-#EXTINF:-1,Andalucia tv
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8770
-#EXTINF:-1,13 TV ES
+#EXTINF:-1,13 TV 
 http://ipflix.click:8080/Ester/s9mdb4ez9y/13547
 #EXTINF:-1,8TV Madrid ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/13545
@@ -141,7 +141,7 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/71971
 http://ipflix.click:8080/Ester/s9mdb4ez9y/13457
 #EXTINF:-1,Teledeporte ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/7178
-#EXTINF:-1,Tele Madrid ES
+#EXTINF:-1,Real Madrid ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/679745
 #EXTINF:-1,Eurosport 1 HD ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/8746
