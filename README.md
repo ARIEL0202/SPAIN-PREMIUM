@@ -2,7 +2,7 @@
 http://138.117.71.80:25461/test/test/189?PlaylistM3UCL
 #EXTINF:-1 tvg-id="141058" tvg-name="CINECANAL" tvg-logo="CINECANAL" group-title="00 - Argentina", CINECANAL
 http://138.117.71.80:25461/test/test/191?PlaylistM3UCL
-#EXTINF:-1 tvg-id="141050" tvg-name=" DISCOVER  MUJER" tvg-logo="DISCOVERY MUJER" group-title="00 - Argentina",  DISCOVER  MUJER
+#EXTINF:-1 tvg-id="141050" tvg-name=" DISCOVERY H&H" tvg-logo="DISCOVERY MUJER" group-title="00 - Argentina",  DISCOVERY H&H
 http://138.117.71.80:25461/test/test/190?PlaylistM3UCL
 #EXTINF:-1 tvg-id="141047" tvg-name="STAR CHANNEL" tvg-logo="STAR CHANNEL" group-title="00 - Argentina", STAR CHANNEL
 http://138.117.71.80:25461/test/test/194?PlaylistM3UCL
@@ -40,7 +40,7 @@ http://138.117.71.80:25461/test/test/197?PlaylistM3UCL
 http://138.117.71.80:25461/test/test/201?PlaylistM3UCL
 #EXTINF:-1 tvg-id="141021" tvg-name="DHE" tvg-logo="DHE" group-title="00 - Argentina", DHE
 http://138.117.71.80:25461/test/test/207?PlaylistM3UCL
-#EXTINF:-1 tvg-id="141029" tvg-name="AE" tvg-logo="AE" group-title="00 - Argentina", AE
+#EXTINF:-1 tvg-id="141029" tvg-name="A&E" tvg-logo="AE" group-title="00 - Argentina", A&E
 http://138.117.71.80:25461/test/test/199?PlaylistM3UCL
 #EXTINF:-1 tvg-id="141023" tvg-name="TBS" tvg-logo="TBS" group-title="Sin Categoria", TBS
 http://138.117.71.80:25461/test/test/205?PlaylistM3UCL
