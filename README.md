@@ -1,3 +1,91 @@
+#EXTINF:-1 tvg-id="141057" tvg-name=" E!" tvg-logo=" E!" group-title="00 - Argentina",  E!
+http://138.117.71.80:25461/test/test/189?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141058" tvg-name="CINECANAL" tvg-logo="CINECANAL" group-title="00 - Argentina", CINECANAL
+http://138.117.71.80:25461/test/test/191?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141050" tvg-name=" DISCOVER  MUJER" tvg-logo="DISCOVERY MUJER" group-title="00 - Argentina",  DISCOVER  MUJER
+http://138.117.71.80:25461/test/test/190?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141047" tvg-name="STAR CHANNEL" tvg-logo="STAR CHANNEL" group-title="00 - Argentina", STAR CHANNEL
+http://138.117.71.80:25461/test/test/194?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141048" tvg-name="LIFETIME" tvg-logo="LIFETIME" group-title="00 - Argentina", LIFETIME
+http://138.117.71.80:25461/test/test/188?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141044" tvg-name="HBO MUNDI" tvg-logo="HBO MUNDI" group-title="00 - Argentina", HBO MUNDI
+http://138.117.71.80:25461/test/test/176?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141033" tvg-name="CINEMAX" tvg-logo="CINEMAX" group-title="00 - Argentina", CINEMAX
+http://138.117.71.80:25461/test/test/195?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141025" tvg-name=" SYFY" tvg-logo=" SYFY" group-title="00 - Argentina",  SYFY
+http://138.117.71.80:25461/test/test/203?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141038" tvg-name="HBO" tvg-logo="HBO" group-title="00 - Argentina", HBO
+http://138.117.71.80:25461/test/test/171?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141040" tvg-name="HBO 2" tvg-logo="HBO 2" group-title="00 - Deportes", HBO 2
+http://138.117.71.80:25461/test/test/172?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141041" tvg-name="HBO PLUS" tvg-logo="HBO PLUS" group-title="00 - Argentina", HBO PLUS
+http://138.117.71.80:25461/test/test/173?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141046" tvg-name="HBO POP" tvg-logo="HBO POP" group-title="00 - Argentina", HBO POP
+http://138.117.71.80:25461/test/test/178?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141042" tvg-name="HBO FAMILY" tvg-logo="HBO FAMILY" group-title="00 - Argentina", HBO FAMILY
+http://138.117.71.80:25461/test/test/174?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141043" tvg-name="HBO SIGNATURE" tvg-logo="HBO SIGNATURE" group-title="00 - Argentina", HBO SIGNATURE
+http://138.117.71.80:25461/test/test/175?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141045" tvg-name="HBO XTREME" tvg-logo="HBO XTREME" group-title="00 - Argentina", HBO XTREME
+http://138.117.71.80:25461/test/test/177?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141030" tvg-name="TRU TV" tvg-logo="TRU TV" group-title="00 - Argentina", TRU TV
+http://138.117.71.80:25461/test/test/198?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141032" tvg-name="TNT" tvg-logo="TNT" group-title="00 - Argentina", TNT
+http://138.117.71.80:25461/test/test/196?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141024" tvg-name="SPACE" tvg-logo="SPACE" group-title="00 - Argentina", SPACE
+http://138.117.71.80:25461/test/test/204?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141031" tvg-name="TNT SERIES" tvg-logo="TNT SERIES" group-title="00 - Argentina", TNT SERIES
+http://138.117.71.80:25461/test/test/197?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141027" tvg-name="AXN" tvg-logo="AXN" group-title="00 - Argentina", AXN
+http://138.117.71.80:25461/test/test/201?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141021" tvg-name="DHE" tvg-logo="#EXTINF:-1,537 " group-title="00 - Argentina", DHE
+http://138.117.71.80:25461/test/test/207?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141029" tvg-name="AE" tvg-logo="AE" group-title="00 - Argentina", AE
+http://138.117.71.80:25461/test/test/199?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141023" tvg-name="TBS" tvg-logo="TBS" group-title="Sin Categoria", TBS
+http://138.117.71.80:25461/test/test/205?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141028" tvg-name="WARNER  CHANNEL" tvg-logo="WARNER CHANNEL" group-title="00 - Argentina", WARNER  CHANNEL
+http://138.117.71.80:25461/test/test/200?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141020" tvg-name="MASCHIC" tvg-logo="MASCHIC" group-title="00 - Argentina", MASCHIC
+http://138.117.71.80:25461/test/test/208?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141026" tvg-name=" SONY" tvg-logo=" SONY" group-title="00 - Argentina",  SONY
+http://138.117.71.80:25461/test/test/202?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141018" tvg-name="FILM ART" tvg-logo="FILM ART" group-title="00 - Argentina", FILM ART
+http://138.117.71.80:25461/test/test/210?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141037" tvg-name="STAR SERIES" tvg-logo="STAR SERIES" group-title="00 - Argentina", STAR SERIES
+http://138.117.71.80:25461/test/test/183?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141005" tvg-name="ENLACE " tvg-logo="ENLACE" group-title="02 - REGIONALES", ENLACE 
+http://138.117.71.80:25461/test/test/235?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141022" tvg-name=" FXMOVIES" tvg-logo=" FXMOVIES" group-title="00 - Argentina",  FXMOVIES
+http://138.117.71.80:25461/test/test/206?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141011" tvg-name="DISCOVERY TLC" tvg-logo="DISCOVERY TLC" group-title="00 - Argentina", DISCOVERY TLC
+http://138.117.71.80:25461/test/test/216?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141019" tvg-name="EUROPA" tvg-logo="EUROPA" group-title="00 - Argentina", EUROPA
+http://138.117.71.80:25461/test/test/209?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141014" tvg-name="GLITZ" tvg-logo=" GLITZ" group-title="00 - Argentina", GLITZ
+http://138.117.71.80:25461/test/test/213?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141015" tvg-name="TCM" tvg-logo="TCM" group-title="00 - Argentina", TCM
+http://138.117.71.80:25461/test/test/215?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141016" tvg-name="ISAT" tvg-logo="ISAT" group-title="00 - Argentina", ISAT
+http://138.117.71.80:25461/test/test/214?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141013" tvg-name="STAR LIFE" tvg-logo="STAR LIFE" group-title="00 - Argentina", STAR LIFE
+http://138.117.71.80:25461/test/test/212?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141017" tvg-name="STUDIO UNIVERSAL" tvg-logo="STUDIO UNIVERSAL" group-title="00 - Argentina", STUDIO UNIVERSAL
+http://138.117.71.80:25461/test/test/211?PlaylistM3UCL
+#EXTINF:-1 tvg-id="140534" tvg-name="ANIMAL PLANET " tvg-logo="ANIMAL PLANET" group-title="07 - Internacional", ANIMAL PLANET 
+http://138.117.71.80:25461/test/test/157?PlaylistM3UCL
+#EXTINF:-1 tvg-id="140328" tvg-name="CINE CASTATROFICO" tvg-logo="" group-title="..::Canales Premium::..", CINE CASTATROFICO
+http://tv.pluscrt.com:25461/live/jpacas/1983JpacaS/40270.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="140532" tvg-name=" GOURMET" tvg-logo="" group-title="00 - Argentina",  GOURMET
+http://138.117.71.80:25461/test/test/217?PlaylistM3UCL
+#EXTINF:-1 tvg-id="140530" tvg-name="CNN ESPANOL" tvg-logo="" group-title="00 - Argentina", CNN ESPANOL
+http://138.117.71.80:25461/test/test/222?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="140551" tvg-name="NAT GEO KIDS" tvg-logo="NAT GEO KIDS" group-title="00 - Argentina", NAT GEO KIDS
+http://138.117.71.80:25461/test/test/147?PlaylistM3UCL
+#EXTINF:-1 tvg-id="140548" tvg-name="CARTOON NETWORK" tvg-logo="CARTOON NETWORK" group-title="Infantil", CARTOON NETWORK
+http://138.117.71.80:25461/test/test/141?PlaylistM3UCL
+
 #EXTINF:-1,AMC LAM
 http://ipflix.click:8080/Ester/s9mdb4ez9y/6674
 #EXTINF:-1,AXN LAM
