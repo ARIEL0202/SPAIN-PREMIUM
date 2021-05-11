@@ -38,7 +38,7 @@ http://138.117.71.80:25461/test/test/204?PlaylistM3UCL
 http://138.117.71.80:25461/test/test/197?PlaylistM3UCL
 #EXTINF:-1 tvg-id="141027" tvg-name="AXN" tvg-logo="AXN" group-title="00 - Argentina", AXN
 http://138.117.71.80:25461/test/test/201?PlaylistM3UCL
-#EXTINF:-1 tvg-id="141021" tvg-name="DHE" tvg-logo="#EXTINF:-1,537 " group-title="00 - Argentina", DHE
+#EXTINF:-1 tvg-id="141021" tvg-name="DHE" tvg-logo="DHE" group-title="00 - Argentina", DHE
 http://138.117.71.80:25461/test/test/207?PlaylistM3UCL
 #EXTINF:-1 tvg-id="141029" tvg-name="AE" tvg-logo="AE" group-title="00 - Argentina", AE
 http://138.117.71.80:25461/test/test/199?PlaylistM3UCL
@@ -82,8 +82,6 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM
 http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="138227" tvg-name="HOLA TV " tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2014/01/13/54697E0F-8599-45F8-8DED-51FB09BD5AE3/58.jpg" group-title="00 - Argentina", HOLA TV 
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="138996" tvg-name="TV HOGAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="00 - Argentina", TV HOGAR
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=83815638-64f0-4bf4-8cd2-92feb27f8740&userId=&serverSideAds=true&PlaylistM3UCL
 #EXTINF:-1 tvg-id="138994" tvg-name="DMAX TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="00 - Argentina", DMAX TV
 http://91.126.141.12:1935/live/discoverymax/chunklist_w130496638.m3u8?PlaylistM3UCL
 
