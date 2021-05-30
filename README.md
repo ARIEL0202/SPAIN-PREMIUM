@@ -1,186 +1,40 @@
-#EXTINF:-1 tvg-id="140328" tvg-name="CINE CASTATROFICO" tvg-logo="" group-title="..::Canales Premium::..", CINE CASTATROFICO
-http://tv.pluscrt.com:25461/live/jpacas/1983JpacaS/40270.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="139944" tvg-name="CINEAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="00 - Argentina", CINEAR
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="139383" tvg-name="ATRES CINE " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="00 - Argentina", ATRES CINE
-http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="MyC - ANIMAL PLANET" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/a4609b184b2e592475a5d72b7cecf53b.jpg" group-title="• MUNDO Y CULTURA",MyC - ANIMAL PLANET
+http://tv.nousiptv.com:8080/peter123/12345/3247
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="MyC - DISCOVERY  HOME & HEALTH" tvg-logo="http://www.mediafire.com/convkey/04c8/5d9ej3quhr5lob7zg.jpg" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY  HOME & HEALTH
+http://tv.nousiptv.com:8080/peter123/12345/3083
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="MyC - DISCOVERY CHANNEL" tvg-logo="http://www.mediafire.com/convkey/c688/05s7pcifvp81gbbzg.jpg" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY CHANNEL
+http://tv.nousiptv.com:8080/peter123/12345/3251
+#EXTINF:-1 tvg-id="DiscoveryCivilizationLatinAmerica.pa" tvg-name="MyC - HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="• MUNDO Y CULTURA",MyC - HGTV
+http://tv.nousiptv.com:8080/peter123/12345/3252
+#EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="MyC - DISCOVERY ID" tvg-logo="http://images.mi.tv/channels/0e549ff9-5a67-4d1c-82f5-884ed19d2a44_m.jpg" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY ID
+http://tv.nousiptv.com:8080/peter123/12345/4123
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.pa" tvg-name="MyC - DISCOVERY SCIENCE" tvg-logo="http://www.mediafire.com/convkey/a2c6/7a9rt7yxxr38e36zg.jpg" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY SCIENCE
+http://tv.nousiptv.com:8080/peter123/12345/3082
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="MyC - DISCOVERY THEATER" tvg-logo="http://images.mi.tv/channels/ar_discovery-hd-theater_m.png" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY THEATER
+http://tv.nousiptv.com:8080/peter123/12345/4119
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="MyC - DISCOVERY TLC" tvg-logo="http://www.mediafire.com/convkey/1948/urzsrf946zocc6qzg.jpg" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY TLC
+http://tv.nousiptv.com:8080/peter123/12345/3256
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="MyC - DISCOVERY WORLD" tvg-logo="http://www.mediafire.com/convkey/6f45/a3whnlqu8srx38gzg.jpg" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY WORLD
+http://tv.nousiptv.com:8080/peter123/12345/3081
+#EXTINF:-1 tvg-id="DeutscheWelleLatinAmerica.de" tvg-name="MyC - DW LATINOAMERICA" tvg-logo="http://homozapping.com.mx/wp-content/uploads/2015/06/dw.jpg" group-title="• MUNDO Y CULTURA",MyC - DW LATINOAMERICA
+http://tv.nousiptv.com:8080/peter123/12345/2102
+#EXTINF:-1 tvg-id="" tvg-name="MyC - FILM & ARTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="• MUNDO Y CULTURA",MyC - FILM & ARTS
+http://tv.nousiptv.com:8080/peter123/12345/3966
+#EXTINF:-1 tvg-id="" tvg-name="MyC - FRANCE 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="• MUNDO Y CULTURA",MyC - FRANCE 24
+http://tv.nousiptv.com:8080/peter123/12345/33357
+#EXTINF:-1 tvg-id="History2.mx" tvg-name="MyC - H2" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s38e131959d60d495/image/i723822227aa9d8ff/version/1474594103/image.png" group-title="• MUNDO Y CULTURA",MyC - H2
+http://tv.nousiptv.com:8080/peter123/12345/4005
+#EXTINF:-1 tvg-id="" tvg-name="MyC - HISPAN TV" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hispan-tv_m.png" group-title="• MUNDO Y CULTURA",MyC - HISPAN TV
+http://tv.nousiptv.com:8080/peter123/12345/33481
+#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="MyC - HISTORY" tvg-logo="http://www.mediafire.com/convkey/6ef9/2d5y67luvmgvxwwzg.jpg" group-title="• MUNDO Y CULTURA",MyC - HISTORY
+http://tv.nousiptv.com:8080/peter123/12345/3234
+#EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="MyC - NATGEO" tvg-logo="http://www.dreadfullykind.com/wp-content/uploads/2017/05/National-Geographic-Logo-1.jpg" group-title="• MUNDO Y CULTURA",MyC - NATGEO
+http://tv.nousiptv.com:8080/peter123/12345/4126
+#EXTINF:-1 tvg-id="NatGeoMundo.us" tvg-name="MyC - NATGEO MUNDO" tvg-logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL.png" group-title="• MUNDO Y CULTURA",MyC - NATGEO MUNDO
+http://tv.nousiptv.com:8080/peter123/12345/3774
+#EXTINF:-1 tvg-id="NatGeoWild.mx" tvg-name="MyC - NATGEO WILD" tvg-logo="https://cdn.mitvstatic.com/channels/co_nat-geo-wild_m.png" group-title="• MUNDO Y CULTURA",MyC - NATGEO WILD
+http://tv.nousiptv.com:8080/peter123/12345/3270
+#EXTINF:-1 tvg-id="RTDocEnglish.ru" tvg-name="MyC - RT ESPAÑOL" tvg-logo="https://s3.spbtv.com/rosing-production/34970a702bcb2748f65f_1014x1014c.png" group-title="• MUNDO Y CULTURA",MyC - RT ESPAÑOL
+http://tv.nousiptv.com:8080/peter123/12345/2064
 
-#EXTINF:-1,AMC LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6674
-#EXTINF:-1,AXN LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6762
-#EXTINF:-1,AXN ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13543
-#EXTINF:-1,AXN White ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13542
-#EXTINF:-1,AMC FHD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7255
-#EXTINF:-1,SyFy HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13523
-#EXTINF:-1,SyFy FHD LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6742
-#EXTINF:-1,Fox ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7220
-#EXTINF:-1,Fox Life ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7219
-#EXTINF:-1,TNT FHD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7177
-#EXTINF:-1,XTRM FHD VIP ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/683549
-#EXTINF:-1,Space FHD MX
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6740
-#EXTINF:-1,Studio Universal MX
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6741
-#EXTINF:-1,TCM HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7180
-#EXTINF:-1,TCM LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6758
-#EXTINF:-1,Movistar Cine ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13530
-#EXTINF:-1,Movistar Series
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8770
-#EXTINF:-1,Taquilla 2 ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8755
-#EXTINF:-1,Taquilla 5 ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8752
-#EXTINF:-1,Taquilla 7 ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8750
-#EXTINF:-1,Taquilla 8 ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13520
 
-#EXTINF:-1,------- Documentary -------
-http://ipflix.click:8080/Ester/s9mdb4ez9y/679813
-#EXTINF:-1,Animal Planet LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6675
-#EXTINF:-1,Discovery Civilization LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6695
-#EXTINF:-1,Discovery Channel ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7226
-#EXTINF:-1,National Geographic ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/16270
-#EXTINF:-1,Nat Geo Wild ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7188
-#EXTINF:-1,Historia ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7217
-#EXTINF:-1,Iberalia ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7171
-#EXTINF:-1,Canal Cocina ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7244
-#EXTINF:-1,Dkiss HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13533
-#EXTINF:-1,Mega ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8760
-#EXTINF:-1,Ten ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13518
-#EXTINF:-1,Mezzo HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7212
-
-#EXTINF:-1,LA1 HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8782
-#EXTINF:-1,LA2 HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7214
-#EXTINF:-1,LA Sexta ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6671
-#EXTINF:-1,Antena 3 HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8779
-#EXTINF:-1,Cuatro HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8777
-#EXTINF:-1,Telecinco FHD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/14022
-#EXTINF:-1,24 Horas ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7174
-#EXTINF:-1,DW ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13532
-#EXTINF:-1,Andalucia TV
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7254
-#EXTINF:-1,13 TV 
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13547
-#EXTINF:-1,8TV Madrid ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13545
-#EXTINF:-1,XTRM HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13527
-#EXTINF:-1,Be Mad TV ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/683552
-#EXTINF:-1,ETB SAT ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/684922
-#EXTINF:-1,ETB 2 ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/684923
-#EXTINF:-1,Neox TV ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/16264
-#EXTINF:-1,Cosmopolitan HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13537
-#EXTINF:-1,Calle 13 HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7247
-#EXTINF:-1,Comedy Central HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7230
-#EXTINF:-1,A3 Series ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13544
-#EXTINF:-1,Divinity HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13534
-#EXTINF:-1,Energy ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8765
-
-#EXTINF:-1,------- Sports -------
-http://ipflix.click:8080/Ester/s9mdb4ez9y/679811
-#EXTINF:-1,ESPN 2 LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6709
-#EXTINF:-1,TYC ARG
-http://ipflix.click:8080/Ester/s9mdb4ez9y/626909
-#EXTINF:-1,Fox Sports 1 HD ARG
-http://ipflix.click:8080/Ester/s9mdb4ez9y/626925
-#EXTINF:-1,Fox Sport 2 LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/67132
-#EXTINF:-1,Fox Sports 2 HD 
-http://ipflix.click:8080/Ester/s9mdb4ez9y/15658
-#EXTINF:-1,beIN Sports Espana ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13540
-#EXTINF:-1,Movistar La Liga 2 [Match Time] ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/683145
-#EXTINF:-1,Movistar Liga De Campeones HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/620685
-#EXTINF:-1,Movistar Liga De Campeones 1 [Match Time] HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/683153
-#EXTINF:-1,Movistar Deportes HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7240
-#EXTINF:-1,Movistar F1 ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/71971
-#EXTINF:-1,Gol TV ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13457
-#EXTINF:-1,Teledeporte ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7178
-#EXTINF:-1,Real Madrid ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/679745
-#EXTINF:-1,Eurosport 1 HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8746
-#EXTINF:-1,Eurosport 2 ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13531
-#EXTINF:-1,Win Sports CO
-http://ipflix.click:8080/Ester/s9mdb4ez9y/629053
-
-#EXTINF:-1,------- Children -------
-http://ipflix.click:8080/Ester/s9mdb4ez9y/679814
-#EXTINF:-1,Disney Channel HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7225
-#EXTINF:-1,Disney Junior ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7224
-#EXTINF:-1,Nickelodeon ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7185
-#EXTINF:-1,Nickelodeon LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6736
-#EXTINF:-1,Nick Jr. ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13526
-#EXTINF:-1,Boing ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8773
-#EXTINF:-1,Clan TVE ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7231
-#EXTINF:-1,Boomerang 
-http://ipflix.click:8080/Ester/s9mdb4ez9y/21340
-
-#EXTINF:-1,Taquilla 1 ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8756
-#EXTINF:-1,Taquilla 6 ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8751
-#EXTINF:-1,Taquilla 3 ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8754
-#EXTINF:-1,Taquilla 4 HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7208
