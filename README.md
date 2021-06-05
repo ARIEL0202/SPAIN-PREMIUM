@@ -1,67 +1,3 @@
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo HD LAM" tvg-logo="" group-title="Latin America",Telemundo HD LAM
-http://ipflix.click:8080/h602/rflx42k17c/16982
-#EXTINF:-1 tvg-id="" tvg-name="Unimas West HD LA" tvg-logo="" group-title="Latin America",Unimas West HD LA
-http://ipflix.click:8080/h602/rflx42k17c/637344
-#EXTINF:-1 tvg-id="forotv.mx" tvg-name="Foro TV MX" tvg-logo="http://pici.life/Latin%20America%20(LAM)/forotvlam.png" group-title="Latin America",Foro TV MX
-http://ipflix.click:8080/h602/rflx42k17c/6713
-#EXTINF:-1 tvg-id="" tvg-name="Glitz LAM" tvg-logo="http://pici.life/glitzlam.png" group-title="Latin America",Glitz LAM
-http://ipflix.click:8080/h602/rflx42k17c/6669
-#EXTINF:-1 tvg-id="" tvg-name="Canal 4 HD ARG" tvg-logo="" group-title="Latin America",Canal 4 HD ARG
-http://ipflix.click:8080/h602/rflx42k17c/626903
-#EXTINF:-1 tvg-id="" tvg-name="Canal 26 HD ARG" tvg-logo="" group-title="Latin America",Canal 26 HD ARG
-http://ipflix.click:8080/h602/rflx42k17c/626905
-#EXTINF:-1 tvg-id="" tvg-name="Canal 6 MX" tvg-logo="http://pici.life/Latin%20America%20(LAM)/Multimedios.png" group-title="Latin America",Canal 6 MX
-http://ipflix.click:8080/h602/rflx42k17c/6733
-#EXTINF:-1 tvg-id="Proyecto40.mx" tvg-name="ADN 40 FHD MX" tvg-logo="http://pici.life/proyecto_40.png" group-title="Latin America",ADN 40 FHD MX
-http://ipflix.click:8080/h602/rflx42k17c/6738
-#EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="Unicable LAM" tvg-logo="http://pici.life/unicablelam.png" group-title="Latin America",Unicable LAM
-http://ipflix.click:8080/h602/rflx42k17c/6752
-#EXTINF:-1 tvg-id="" tvg-name="Canal De Las Estrellas MX" tvg-logo="http://pici.life/lasestrellaslam.png" group-title="Latin America",Canal De Las Estrellas MX
-http://ipflix.click:8080/h602/rflx42k17c/6686
-#EXTINF:-1 tvg-id="" tvg-name="TeleFormula FHD LAM" tvg-logo="http://pici.life/Latin%20America%20(LAM)/teleformula.jpg" group-title="Latin America",TeleFormula FHD LAM
-http://ipflix.click:8080/h602/rflx42k17c/6745
-#EXTINF:-1 tvg-id="" tvg-name="C5N ARG" tvg-logo="" group-title="Latin America",C5N ARG
-http://ipflix.click:8080/h602/rflx42k17c/626941
-#EXTINF:-1 tvg-id="telefe.ar" tvg-name="Telefe Rosario HD ARG" tvg-logo="" group-title="Latin America",Telefe Rosario HD ARG
-http://ipflix.click:8080/h602/rflx42k17c/626917
-#EXTINF:-1 tvg-id="" tvg-name="Azteca Honduras LAM" tvg-logo="http://pici.life/Latin%20America%20(LAM)/Azteca_honduras.png" group-title="Latin America",Azteca Honduras LAM
-http://ipflix.click:8080/h602/rflx42k17c/8744
-#EXTINF:-1 tvg-id="" tvg-name="El Nueve ARG" tvg-logo="" group-title="Latin America",El Nueve ARG
-http://ipflix.click:8080/h602/rflx42k17c/626927
-#EXTINF:-1 tvg-id="" tvg-name="Encuentro ARG" tvg-logo="" group-title="Latin America",Encuentro ARG
-http://ipflix.click:8080/h602/rflx42k17c/626926
-#EXTINF:-1 tvg-id="" tvg-name="Azteca Honduras HN" tvg-logo="" group-title="Latin America",Azteca Honduras HN
-http://ipflix.click:8080/h602/rflx42k17c/626967
-#EXTINF:-1 tvg-id="" tvg-name="Canal 5 HN" tvg-logo="" group-title="Latin America",Canal 5 HN
-http://ipflix.click:8080/h602/rflx42k17c/626963
-#EXTINF:-1 tvg-id="" tvg-name="Canal 6 HN" tvg-logo="" group-title="Latin America",Canal 6 HN
-http://ipflix.click:8080/h602/rflx42k17c/626962
-#EXTINF:-1 tvg-id="" tvg-name="Canal 11 HN" tvg-logo="" group-title="Latin America",Canal 11 HN
-http://ipflix.click:8080/h602/rflx42k17c/626965
-#EXTINF:-1 tvg-id="" tvg-name="Mega TV HD HN" tvg-logo="" group-title="Latin America",Mega TV HD HN
-http://ipflix.click:8080/h602/rflx42k17c/626957
-#EXTINF:-1 tvg-id="" tvg-name="Telecadena HN" tvg-logo="" group-title="Latin America",Telecadena HN
-http://ipflix.click:8080/h602/rflx42k17c/626953
-#EXTINF:-1 tvg-id="" tvg-name="Teleceiba HN" tvg-logo="" group-title="Latin America",Teleceiba HN
-http://ipflix.click:8080/h602/rflx42k17c/626952
-#EXTINF:-1 tvg-id="" tvg-name="Telesistema HD HN" tvg-logo="" group-title="Latin America",Telesistema HD HN
-http://ipflix.click:8080/h602/rflx42k17c/626950
-#EXTINF:-1 tvg-id="" tvg-name="Une TV HN" tvg-logo="" group-title="Latin America",Une TV HN
-http://ipflix.click:8080/h602/rflx42k17c/626947
-#EXTINF:-1 tvg-id="" tvg-name="TNP PE" tvg-logo="" group-title="Latin America",TNP PE
-http://ipflix.click:8080/h602/rflx42k17c/626970
-#EXTINF:-1 tvg-id="" tvg-name="TV Peru HD PE" tvg-logo="" group-title="Latin America",TV Peru HD PE
-http://ipflix.click:8080/h602/rflx42k17c/626969
-#EXTINF:-1 tvg-id="" tvg-name="Antares TV PE" tvg-logo="" group-title="Latin America",Antares TV PE
-http://ipflix.click:8080/h602/rflx42k17c/626981
-#EXTINF:-1 tvg-id="" tvg-name="ATV HD PE" tvg-logo="" group-title="Latin America",ATV HD PE
-http://ipflix.click:8080/h602/rflx42k17c/626980
-#EXTINF:-1 tvg-id="" tvg-name="Capital TV PE" tvg-logo="" group-title="Latin America",Capital TV PE
-http://ipflix.click:8080/h602/rflx42k17c/626979
-#EXTINF:-1 tvg-id="" tvg-name="Next TV PE" tvg-logo="" group-title="Latin America",Next TV PE
-http://ipflix.click:8080/h602/rflx42k17c/626975
-#EXTINF:-1 tvg-id="" tvg-name="Panamericana PE" tvg-logo="" group-title="Latin America",Panamericana PE
-http://ipflix.click:8080/h602/rflx42k17c/626974
 #EXTINF:-1 tvg-id="" tvg-name="------- Sports -------" tvg-logo="" group-title="Latin America",------- Sports -------
 http://ipflix.click:8080/h602/rflx42k17c/688533
 #EXTINF:-1 tvg-id="foxsports.ar" tvg-name="Fox Sports 1 HD ARG" tvg-logo="" group-title="Latin America",Fox Sports 1 HD ARG
@@ -194,8 +130,6 @@ http://ipflix.click:8080/h602/rflx42k17c/13531
 #EXTINF:-1 tvg-id="viajar.es" tvg-name="Viajar FHD ES" tvg-logo="http://pici.life/es/Viajar.es.png" group-title="Spain",Viajar FHD ES
 http://ipflix.click:8080/h602/rflx42k17c/7170
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="------- Movies & Series -------" tvg-logo="" group-title="Spain",------- Movies & Series -------
 http://ipflix.click:8080/h602/rflx42k17c/679812
 #EXTINF:-1 tvg-id="axn.es" tvg-name="AXN ES" tvg-logo="http://pici.life/ES/axn.png" group-title="Spain",AXN ES
@@ -308,50 +242,16 @@ http://ipflix.click:8080/h602/rflx42k17c/7221
 http://ipflix.click:8080/h602/rflx42k17c/13518
 #EXTINF:-1 tvg-id="" tvg-name="Mezzo HD ES" tvg-logo="http://pici.life/ES/mezzolivehd.png" group-title="Spain",Mezzo HD ES
 http://ipflix.click:8080/h602/rflx42k17c/7212
-#EXTINF:-1 tvg-id="" tvg-name="------- Children -------" tvg-logo="" group-title="Spain",------- Children -------
-http://ipflix.click:8080/h602/rflx42k17c/679814
-#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="Disney Channel HD ES" tvg-logo="http://pici.life/ES/disneychannel.png" group-title="Spain",Disney Channel HD ES
-http://ipflix.click:8080/h602/rflx42k17c/7225
-#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="Disney Junior ES" tvg-logo="http://pici.life/es/DisneyJunior.es.png" group-title="Spain",Disney Junior ES
-http://ipflix.click:8080/h602/rflx42k17c/7224
-#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="Nickelodeon ES" tvg-logo="http://pici.life/es/Nickelodeon.es.png" group-title="Spain",Nickelodeon ES
-http://ipflix.click:8080/h602/rflx42k17c/7185
-#EXTINF:-1 tvg-id="nickjr.es" tvg-name="Nick Jr. ES" tvg-logo="http://pici.life/ES/nickjr_2.png" group-title="Spain",Nick Jr. ES
-http://ipflix.click:8080/h602/rflx42k17c/13526
-#EXTINF:-1 tvg-id="boing.es" tvg-name="Boing ES" tvg-logo="http://pici.life/ES/boing.png" group-title="Spain",Boing ES
-http://ipflix.click:8080/h602/rflx42k17c/8773
-#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="Canal Panda ES" tvg-logo="" group-title="Spain",Canal Panda ES
-http://ipflix.click:8080/h602/rflx42k17c/53156
 #EXTINF:-1 tvg-id="clantve.es" tvg-name="Clan TVE ES" tvg-logo="http://pici.life/es/ClanTVE.es.png" group-title="Spain",Clan TVE ES
 http://ipflix.click:8080/h602/rflx42k17c/7231
 
-#EXTINF:-1 tvg-id="canalcapital.co" tvg-name="Canal Capital CO" tvg-logo="http://pici.life/CO/Canal_Capital.png" group-title="Colombia",Canal Capital CO
-http://ipflix.click:8080/h602/rflx42k17c/15673
-#EXTINF:-1 tvg-id="" tvg-name="Canal Wow TV HD CO" tvg-logo="http://pici.life/CO/Canal_Wow.png" group-title="Colombia",Canal Wow TV HD CO
-http://ipflix.click:8080/h602/rflx42k17c/15670
-#EXTINF:-1 tvg-id="caracol.co" tvg-name="Caracol HD CO" tvg-logo="http://pici.life/picon/caracoltvlam.png" group-title="Colombia",Caracol HD CO
-http://ipflix.click:8080/h602/rflx42k17c/15668
 #EXTINF:-1 tvg-id="FoxSports2Colombia.co" tvg-name="Fox Sports 2 HD CO" tvg-logo="http://pici.life/picon/foxsports2hd_2.png" group-title="Colombia",Fox Sports 2 HD CO
 http://ipflix.click:8080/h602/rflx42k17c/15658
-#EXTINF:-1 tvg-id="" tvg-name="Melody TV CO" tvg-logo="http://pici.life/CO/Melody.png" group-title="Colombia",Melody TV CO
-http://ipflix.click:8080/h602/rflx42k17c/15652
-#EXTINF:-1 tvg-id="" tvg-name="TeleRitmo CO" tvg-logo="http://pici.life/CO/teleritmo.png" group-title="Colombia",TeleRitmo CO
-http://ipflix.click:8080/h602/rflx42k17c/15638
-#EXTINF:-1 tvg-id="teleantioquia.co" tvg-name="Teleantioquia CO" tvg-logo="http://pici.life/CO/Teleantioquia.png" group-title="Colombia",Teleantioquia CO
-http://ipflix.click:8080/h602/rflx42k17c/628999
 #EXTINF:-1 tvg-id="WarnerChannelAndes.co" tvg-name="Warner Bross HD CO" tvg-logo="http://pici.life/picon/warnerhdlam.png" group-title="Colombia",Warner Bross HD CO
 http://ipflix.click:8080/h602/rflx42k17c/15628
-#EXTINF:-1 tvg-id="" tvg-name="Azmundo HD CO" tvg-logo="http://pici.life/CO/Azmundo.png" group-title="Colombia",Azmundo HD CO
-http://ipflix.click:8080/h602/rflx42k17c/21344
-#EXTINF:-1 tvg-id="CableNoticias.co" tvg-name="Cablenoticias HD CO" tvg-logo="http://pici.life/CO/Cablenoticias.png" group-title="Colombia",Cablenoticias HD CO
-http://ipflix.click:8080/h602/rflx42k17c/21339
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD CO" tvg-logo="http://pici.life/picon/comedycentralhd_2.png" group-title="Colombia",Comedy Central HD CO
 http://ipflix.click:8080/h602/rflx42k17c/21328
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel CO" tvg-logo="http://pici.life/Logo/discoveryhd.png" group-title="Colombia",Discovery Channel CO
 http://ipflix.click:8080/h602/rflx42k17c/21323
-#EXTINF:-1 tvg-id="rcn.co" tvg-name="RCN CO" tvg-logo="http://pici.life/CO/RCN.png" group-title="Colombia",RCN CO
-http://ipflix.click:8080/h602/rflx42k17c/50891
-#EXTINF:-1 tvg-id="senal.co" tvg-name="Senal Colombia HD CO" tvg-logo="http://pici.life/Logo/senal_co.png" group-title="Colombia",Senal Colombia HD CO
-http://ipflix.click:8080/h602/rflx42k17c/629054
 #EXTINF:-1 tvg-id="" tvg-name="Win Sports CO" tvg-logo="http://pici.life/CO/WinSports.png" group-title="Colombia",Win Sports CO
 http://ipflix.click:8080/h602/rflx42k17c/629053
