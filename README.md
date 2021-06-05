@@ -198,8 +198,6 @@ http://ipflix.click:8080/h602/rflx42k17c/7170
 
 #EXTINF:-1 tvg-id="" tvg-name="------- Movies & Series -------" tvg-logo="" group-title="Spain",------- Movies & Series -------
 http://ipflix.click:8080/h602/rflx42k17c/679812
-#EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN HD ES" tvg-logo="http://pici.life/ES/axnhd_2.png" group-title="Spain",AXN HD ES
-http://ipflix.click:8080/h602/rflx42k17c/7252
 #EXTINF:-1 tvg-id="axn.es" tvg-name="AXN ES" tvg-logo="http://pici.life/ES/axn.png" group-title="Spain",AXN ES
 http://ipflix.click:8080/h602/rflx42k17c/13543
 #EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="AXN White FHD ES" tvg-logo="http://pici.life/ES/axnwhitehd.png" group-title="Spain",AXN White FHD ES
@@ -208,72 +206,34 @@ http://ipflix.click:8080/h602/rflx42k17c/7251
 http://ipflix.click:8080/h602/rflx42k17c/13542
 #EXTINF:-1 tvg-id="AMC.es" tvg-name="AMC FHD ES" tvg-logo="http://pici.life/ES/amchd.png" group-title="Spain",AMC FHD ES
 http://ipflix.click:8080/h602/rflx42k17c/7255
-#EXTINF:-1 tvg-id="syfy.es" tvg-name="SyFy FHD ES" tvg-logo="http://pici.life/ES/syfyhd.png" group-title="Spain",SyFy FHD ES
-http://ipflix.click:8080/h602/rflx42k17c/13522
 #EXTINF:-1 tvg-id="syfy.es" tvg-name="SyFy HD ES" tvg-logo="http://pici.life/ES/syfy.png" group-title="Spain",SyFy HD ES
 http://ipflix.click:8080/h602/rflx42k17c/13523
 #EXTINF:-1 tvg-id="Fox.es" tvg-name="Fox FHD ES" tvg-logo="" group-title="Spain",Fox FHD ES
 http://ipflix.click:8080/h602/rflx42k17c/16267
-#EXTINF:-1 tvg-id="fox.es" tvg-name="Fox ES" tvg-logo="http://pici.life/es/Fox.es.png" group-title="Spain",Fox ES
-http://ipflix.click:8080/h602/rflx42k17c/7220
-#EXTINF:-1 tvg-id="FoxLife.es" tvg-name="FOX Life FHD ES" tvg-logo="" group-title="Spain",FOX Life FHD ES
-http://ipflix.click:8080/h602/rflx42k17c/16266
 #EXTINF:-1 tvg-id="foxlife.es" tvg-name="Fox Life ES" tvg-logo="http://pici.life/es/FoxLife.es.png" group-title="Spain",Fox Life ES
 http://ipflix.click:8080/h602/rflx42k17c/7219
 #EXTINF:-1 tvg-id="tnt.es" tvg-name="TNT FHD ES" tvg-logo="http://pici.life/es/TNT.es.png" group-title="Spain",TNT FHD ES
 http://ipflix.click:8080/h602/rflx42k17c/7177
 #EXTINF:-1 tvg-id="" tvg-name="Sundance TV ES" tvg-logo="" group-title="Spain",Sundance TV ES
 http://ipflix.click:8080/h602/rflx42k17c/14121
-#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="Movistar Series FHD ES" tvg-logo="http://pici.life/es/MovistarSeries.es.png" group-title="Spain",Movistar Series FHD ES
-http://ipflix.click:8080/h602/rflx42k17c/7191
-#EXTINF:-1 tvg-id="movistarseriesxtra.es" tvg-name="Movistar Series HD ES" tvg-logo="" group-title="Spain",Movistar Series HD ES
-http://ipflix.click:8080/h602/rflx42k17c/16282
 #EXTINF:-1 tvg-id="movistarseries.es" tvg-name="Movistar Series ES" tvg-logo="http://pici.life/es/MovistarSeries.es.png" group-title="Spain",Movistar Series ES
 http://ipflix.click:8080/h602/rflx42k17c/8767
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Seriesmania FHD ES" tvg-logo="http://pici.life/es/MovistarXtra.es.png" group-title="Spain",Movistar Seriesmania FHD ES
-http://ipflix.click:8080/h602/rflx42k17c/7190
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Seriesmania HD ES" tvg-logo="http://pici.life/canalplusseries.png" group-title="Spain",Movistar Seriesmania HD ES
 http://ipflix.click:8080/h602/rflx42k17c/7234
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Seriesmania ES" tvg-logo="" group-title="Spain",Movistar Seriesmania ES
-http://ipflix.click:8080/h602/rflx42k17c/8770
 #EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="Movistar Accion FHD ES" tvg-logo="http://pici.life/ES/canal%20+%20accion%20hd.png" group-title="Spain",Movistar Accion FHD ES
 http://ipflix.click:8080/h602/rflx42k17c/7245
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Accion HD ES" tvg-logo="" group-title="Spain",Movistar Accion HD ES
-http://ipflix.click:8080/h602/rflx42k17c/16280
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="Movistar Accion ES" tvg-logo="http://pici.life/es/MovistarAccion.es.png" group-title="Spain",Movistar Accion ES
-http://ipflix.click:8080/h602/rflx42k17c/7195
-#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="Movistar Drama FHD ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/225px-Movistar_Drama.svg.png" group-title="Spain",Movistar Drama FHD ES
-http://ipflix.click:8080/h602/rflx42k17c/685775
 #EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="Movistar Drama HD ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/225px-Movistar_Drama.svg.png" group-title="Spain",Movistar Drama HD ES
 http://ipflix.click:8080/h602/rflx42k17c/685776
-#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="Movistar Comedia FHD ES" tvg-logo="http://pici.life/es/MovistarComedia.es.png" group-title="Spain",Movistar Comedia FHD ES
-http://ipflix.click:8080/h602/rflx42k17c/7243
 #EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="Movistar Comedia HD ES" tvg-logo="http://pici.life/es/MovistarComedia.es.png" group-title="Spain",Movistar Comedia HD ES
 http://ipflix.click:8080/h602/rflx42k17c/7194
-#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="Movistar Esternos FHD ES" tvg-logo="http://pici.life/es/MovistarEstrenos.es.png" group-title="Spain",Movistar Esternos FHD ES
-http://ipflix.click:8080/h602/rflx42k17c/7192
-#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="Movistar Estrenos FHD ES" tvg-logo="" group-title="Spain",Movistar Estrenos FHD ES
-http://ipflix.click:8080/h602/rflx42k17c/16262
-#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="Movistar Estrenos HD ES" tvg-logo="http://pici.life/es/MovistarEstrenos.es.png" group-title="Spain",Movistar Estrenos HD ES
-http://ipflix.click:8080/h602/rflx42k17c/8771
 #EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="Movistar Estrenos ES" tvg-logo="http://pici.life/es/MovistarEstrenos.es.png" group-title="Spain",Movistar Estrenos ES
 http://ipflix.click:8080/h602/rflx42k17c/7222
-#EXTINF:-1 tvg-id="" tvg-name="Movistar DCine FHD ES" tvg-logo="" group-title="Spain",Movistar DCine FHD ES
-http://ipflix.click:8080/h602/rflx42k17c/16279
 #EXTINF:-1 tvg-id="MovistarDCine.es" tvg-name="Movistar DCine HD ES" tvg-logo="http://pici.life/es/MovistarDCine.es.png" group-title="Spain",Movistar DCine HD ES
 http://ipflix.click:8080/h602/rflx42k17c/7193
 #EXTINF:-1 tvg-id="MovistarDCine.es" tvg-name="Movistar DCine ES" tvg-logo="http://pici.life/es/DCineEspanol.es.png" group-title="Spain",Movistar DCine ES
 http://ipflix.click:8080/h602/rflx42k17c/7242
-#EXTINF:-1 tvg-id="MovistarXtra.es" tvg-name="Movistar CineDoc & Roll ES" tvg-logo="http://pici.life/canalfhd.png" group-title="Spain",Movistar CineDoc & Roll ES
-http://ipflix.click:8080/h602/rflx42k17c/7233
-#EXTINF:-1 tvg-id="" tvg-name="Dark FHD ES" tvg-logo="" group-title="Spain",Dark FHD ES
-http://ipflix.click:8080/h602/rflx42k17c/686790
 #EXTINF:-1 tvg-id="neox.es" tvg-name="Neox TV HD ES" tvg-logo="http://pici.life/ES/neox.png" group-title="Spain",Neox TV HD ES
 http://ipflix.click:8080/h602/rflx42k17c/7186
-#EXTINF:-1 tvg-id="neox.es" tvg-name="Neox TV ES" tvg-logo="" group-title="Spain",Neox TV ES
-http://ipflix.click:8080/h602/rflx42k17c/16264
-#EXTINF:-1 tvg-id="cosmo.es" tvg-name="Cosmo FHD ES" tvg-logo="http://pici.life/ES/cosmohd.png" group-title="Spain",Cosmo FHD ES
-http://ipflix.click:8080/h602/rflx42k17c/7229
 #EXTINF:-1 tvg-id="" tvg-name="Cosmopolitan HD ES" tvg-logo="http://pici.life/ES/cosmohd.png" group-title="Spain",Cosmopolitan HD ES
 http://ipflix.click:8080/h602/rflx42k17c/13537
 #EXTINF:-1 tvg-id="calle13.es" tvg-name="Calle 13 HD ES" tvg-logo="http://pici.life/ES/calle13hd.png" group-title="Spain",Calle 13 HD ES
@@ -288,34 +248,20 @@ http://ipflix.click:8080/h602/rflx42k17c/7183
 http://ipflix.click:8080/h602/rflx42k17c/13534
 #EXTINF:-1 tvg-id="energy.es" tvg-name="Energy ES" tvg-logo="http://pici.life/es/Energy.es.png" group-title="Spain",Energy ES
 http://ipflix.click:8080/h602/rflx42k17c/8765
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 1 HD ES" tvg-logo="" group-title="Spain",Taquilla 1 HD ES
-http://ipflix.click:8080/h602/rflx42k17c/7211
 #EXTINF:-1 tvg-id="" tvg-name="Taquilla 1 ES" tvg-logo="http://pici.life/movistar_es_taquilla.png" group-title="Spain",Taquilla 1 ES
 http://ipflix.click:8080/h602/rflx42k17c/8756
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 2 HD ES" tvg-logo="" group-title="Spain",Taquilla 2 HD ES
-http://ipflix.click:8080/h602/rflx42k17c/7210
 #EXTINF:-1 tvg-id="" tvg-name="Taquilla 2 ES" tvg-logo="http://pici.life/ES/taquilla.png" group-title="Spain",Taquilla 2 ES
 http://ipflix.click:8080/h602/rflx42k17c/8755
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 3 HD ES" tvg-logo="" group-title="Spain",Taquilla 3 HD ES
-http://ipflix.click:8080/h602/rflx42k17c/7209
 #EXTINF:-1 tvg-id="" tvg-name="Taquilla 3 ES" tvg-logo="http://pici.life/ES/taquilla.png" group-title="Spain",Taquilla 3 ES
 http://ipflix.click:8080/h602/rflx42k17c/8754
 #EXTINF:-1 tvg-id="" tvg-name="Taquilla 4 HD ES" tvg-logo="" group-title="Spain",Taquilla 4 HD ES
 http://ipflix.click:8080/h602/rflx42k17c/7208
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 5 HD ES" tvg-logo="" group-title="Spain",Taquilla 5 HD ES
-http://ipflix.click:8080/h602/rflx42k17c/7207
 #EXTINF:-1 tvg-id="" tvg-name="Taquilla 5 ES" tvg-logo="http://pici.life/ES/taquilla.png" group-title="Spain",Taquilla 5 ES
 http://ipflix.click:8080/h602/rflx42k17c/8752
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 6 HD ES" tvg-logo="" group-title="Spain",Taquilla 6 HD ES
-http://ipflix.click:8080/h602/rflx42k17c/7206
 #EXTINF:-1 tvg-id="" tvg-name="Taquilla 6 ES" tvg-logo="http://pici.life/ES/taquilla.png" group-title="Spain",Taquilla 6 ES
 http://ipflix.click:8080/h602/rflx42k17c/8751
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 7 HD ES" tvg-logo="" group-title="Spain",Taquilla 7 HD ES
-http://ipflix.click:8080/h602/rflx42k17c/7205
 #EXTINF:-1 tvg-id="" tvg-name="Taquilla 7 ES" tvg-logo="http://pici.life/ES/taquilla.png" group-title="Spain",Taquilla 7 ES
 http://ipflix.click:8080/h602/rflx42k17c/8750
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 8 HD ES" tvg-logo="" group-title="Spain",Taquilla 8 HD ES
-http://ipflix.click:8080/h602/rflx42k17c/7204
 #EXTINF:-1 tvg-id="" tvg-name="Taquilla 8 ES" tvg-logo="http://pici.life/movistar_es_taquilla.png" group-title="Spain",Taquilla 8 ES
 http://ipflix.click:8080/h602/rflx42k17c/13520
 #EXTINF:-1 tvg-id="tcm.es" tvg-name="TCM HD ES" tvg-logo="http://pici.life/es/TCM.es.png" group-title="Spain",TCM HD ES
@@ -324,8 +270,6 @@ http://ipflix.click:8080/h602/rflx42k17c/7180
 http://ipflix.click:8080/h602/rflx42k17c/8769
 #EXTINF:-1 tvg-id="Hollywood.es" tvg-name="Hollywood FHD ES" tvg-logo="http://pici.life/ES/canalhollywoodhd.png" group-title="Spain",Hollywood FHD ES
 http://ipflix.click:8080/h602/rflx42k17c/8768
-#EXTINF:-1 tvg-id="historia.es" tvg-name="Hollywood HD ES" tvg-logo="http://pici.life/es/Hollywood.es.png" group-title="Spain",Hollywood HD ES
-http://ipflix.click:8080/h602/rflx42k17c/7216
 #EXTINF:-1 tvg-id="" tvg-name="------- Documentary -------" tvg-logo="" group-title="Spain",------- Documentary -------
 http://ipflix.click:8080/h602/rflx42k17c/679813
 #EXTINF:-1 tvg-id="DiscoveryChannel.es" tvg-name="Discovery Channel ES" tvg-logo="http://pici.life/ES/discoverychannel.png" group-title="Spain",Discovery Channel ES
@@ -333,14 +277,12 @@ http://ipflix.click:8080/h602/rflx42k17c/7226
 #EXTINF:-1 tvg-id="DiscoveryMax.es" tvg-name="Discovery Dmax ES" tvg-logo="http://pici.life/ES/Discover%20Dmax.png" group-title="Spain",Discovery Dmax ES
 http://ipflix.click:8080/h602/rflx42k17c/13535
 #EXTINF:-1 tvg-id="natgeo.es" tvg-name="National Geographic HD ES" tvg-logo="http://pici.life/ES/nationalgeographichd_2.png" group-title="Spain",National Geographic HD ES
-http://ipflix.click:8080/h602/rflx42k17c/13528
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="National Geographic ES" tvg-logo="" group-title="Spain",National Geographic ES
 http://ipflix.click:8080/h602/rflx42k17c/16270
 #EXTINF:-1 tvg-id="natgeowild.es" tvg-name="Nat Geo Wild ES" tvg-logo="http://pici.life/es/NatGeoWild.es.png" group-title="Spain",Nat Geo Wild ES
 http://ipflix.click:8080/h602/rflx42k17c/7188
 #EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="Crime & Investigation ES" tvg-logo="http://pici.life/ES/crimenplusinves.png" group-title="Spain",Crime & Investigation ES
 http://ipflix.click:8080/h602/rflx42k17c/8757
-#EXTINF:-1 tvg-id="historia.es" tvg-name="Historia ES" tvg-logo="http://pici.life/es/Historia.es.png" group-title="Spain",Historia ES
+#EXTINF:-1 tvg-id="historia.es" tvg-name="History ES" tvg-logo="http://pici.life/es/Historia.es.png" group-title="Spain",History ES
 http://ipflix.click:8080/h602/rflx42k17c/7217
 #EXTINF:-1 tvg-id="canalcocina.es" tvg-name="Canal Cocina ES" tvg-logo="http://pici.life/ES/canalcocina.png" group-title="Spain",Canal Cocina ES
 http://ipflix.click:8080/h602/rflx42k17c/7244
@@ -348,24 +290,14 @@ http://ipflix.click:8080/h602/rflx42k17c/7244
 http://ipflix.click:8080/h602/rflx42k17c/7241
 #EXTINF:-1 tvg-id="" tvg-name="Dkiss HD ES" tvg-logo="http://pici.life/ES/Dkiss.png" group-title="Spain",Dkiss HD ES
 http://ipflix.click:8080/h602/rflx42k17c/13533
-#EXTINF:-1 tvg-id="mega.es" tvg-name="Mega FHD ES" tvg-logo="" group-title="Spain",Mega FHD ES
-http://ipflix.click:8080/h602/rflx42k17c/16263
 #EXTINF:-1 tvg-id="mega.es" tvg-name="Mega HD ES" tvg-logo="http://pici.life/ES/megahdes.png" group-title="Spain",Mega HD ES
 http://ipflix.click:8080/h602/rflx42k17c/13824
-#EXTINF:-1 tvg-id="mega.es" tvg-name="Mega ES" tvg-logo="http://pici.life/es/Mega.es.png" group-title="Spain",Mega ES
-http://ipflix.click:8080/h602/rflx42k17c/8760
 #EXTINF:-1 tvg-id="nonstoppeople.es" tvg-name="Blaze ES" tvg-logo="http://pici.life/es/NonStopPeople.es.png" group-title="Spain",Blaze ES
 http://ipflix.click:8080/h602/rflx42k17c/7184
-#EXTINF:-1 tvg-id="" tvg-name="Caza y Pesca FHD ES" tvg-logo="" group-title="Spain",Caza y Pesca FHD ES
-http://ipflix.click:8080/h602/rflx42k17c/16269
-#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="Caza y Pesca ES" tvg-logo="http://pici.life/ES/cazaypesca.png" group-title="Spain",Caza y Pesca ES
-http://ipflix.click:8080/h602/rflx42k17c/7232
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="Iberalia ES" tvg-logo="http://pici.life/es/IberaliaTV.es.png" group-title="Spain",Iberalia ES
 http://ipflix.click:8080/h602/rflx42k17c/7171
 #EXTINF:-1 tvg-id="odisea.es" tvg-name="Odisea TV HD ES" tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/9273a131ff78afd484dd16cc39bc9dd2_ODISEA-color.png" group-title="Spain",Odisea TV HD ES
 http://ipflix.click:8080/h602/rflx42k17c/685777
-#EXTINF:-1 tvg-id="odisea.es" tvg-name="Odisea TV ES" tvg-logo="http://pici.life/es/Odisea.es.png" group-title="Spain",Odisea TV ES
-http://ipflix.click:8080/h602/rflx42k17c/8761
 #EXTINF:-1 tvg-id="" tvg-name="------- Entertainment -------" tvg-logo="" group-title="Spain",------- Entertainment -------
 http://ipflix.click:8080/h602/rflx42k17c/679816
 #EXTINF:-1 tvg-id="mtv.es" tvg-name="MTV Espana ES" tvg-logo="http://pici.life/es/MTV.es.png" group-title="Spain",MTV Espana ES
@@ -378,18 +310,10 @@ http://ipflix.click:8080/h602/rflx42k17c/13518
 http://ipflix.click:8080/h602/rflx42k17c/7212
 #EXTINF:-1 tvg-id="" tvg-name="------- Children -------" tvg-logo="" group-title="Spain",------- Children -------
 http://ipflix.click:8080/h602/rflx42k17c/679814
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV ES" tvg-logo="http://pici.life/ES/babytv.png" group-title="Spain",Baby TV ES
-http://ipflix.click:8080/h602/rflx42k17c/8774
-#EXTINF:-1 tvg-id="Disney Channel ES" tvg-name="Disney Channel FHD ES" tvg-logo="" group-title="Spain",Disney Channel FHD ES
-http://ipflix.click:8080/h602/rflx42k17c/16287
 #EXTINF:-1 tvg-id="disneychannel.es" tvg-name="Disney Channel HD ES" tvg-logo="http://pici.life/ES/disneychannel.png" group-title="Spain",Disney Channel HD ES
 http://ipflix.click:8080/h602/rflx42k17c/7225
-#EXTINF:-1 tvg-id="disneyxd.es" tvg-name="Disney+ ES" tvg-logo="http://pici.life/es/DisneyXD.es.png" group-title="Spain",Disney+ ES
-http://ipflix.click:8080/h602/rflx42k17c/7223
 #EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="Disney Junior ES" tvg-logo="http://pici.life/es/DisneyJunior.es.png" group-title="Spain",Disney Junior ES
 http://ipflix.click:8080/h602/rflx42k17c/7224
-#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="Nickelodeon HD ES" tvg-logo="" group-title="Spain",Nickelodeon HD ES
-http://ipflix.click:8080/h602/rflx42k17c/16268
 #EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="Nickelodeon ES" tvg-logo="http://pici.life/es/Nickelodeon.es.png" group-title="Spain",Nickelodeon ES
 http://ipflix.click:8080/h602/rflx42k17c/7185
 #EXTINF:-1 tvg-id="nickjr.es" tvg-name="Nick Jr. ES" tvg-logo="http://pici.life/ES/nickjr_2.png" group-title="Spain",Nick Jr. ES
@@ -401,8 +325,6 @@ http://ipflix.click:8080/h602/rflx42k17c/53156
 #EXTINF:-1 tvg-id="clantve.es" tvg-name="Clan TVE ES" tvg-logo="http://pici.life/es/ClanTVE.es.png" group-title="Spain",Clan TVE ES
 http://ipflix.click:8080/h602/rflx42k17c/7231
 
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD CO" tvg-logo="http://pici.life/picon/amchd_2.png" group-title="Colombia",AMC HD CO
-http://ipflix.click:8080/h602/rflx42k17c/15677
 #EXTINF:-1 tvg-id="canalcapital.co" tvg-name="Canal Capital CO" tvg-logo="http://pici.life/CO/Canal_Capital.png" group-title="Colombia",Canal Capital CO
 http://ipflix.click:8080/h602/rflx42k17c/15673
 #EXTINF:-1 tvg-id="" tvg-name="Canal Wow TV HD CO" tvg-logo="http://pici.life/CO/Canal_Wow.png" group-title="Colombia",Canal Wow TV HD CO
@@ -419,36 +341,16 @@ http://ipflix.click:8080/h602/rflx42k17c/15638
 http://ipflix.click:8080/h602/rflx42k17c/628999
 #EXTINF:-1 tvg-id="WarnerChannelAndes.co" tvg-name="Warner Bross HD CO" tvg-logo="http://pici.life/picon/warnerhdlam.png" group-title="Colombia",Warner Bross HD CO
 http://ipflix.click:8080/h602/rflx42k17c/15628
-#EXTINF:-1 tvg-id="" tvg-name="AXN CO" tvg-logo="http://pici.life/Logo/pta/axnhd.png" group-title="Colombia",AXN CO
-http://ipflix.click:8080/h602/rflx42k17c/21345
 #EXTINF:-1 tvg-id="" tvg-name="Azmundo HD CO" tvg-logo="http://pici.life/CO/Azmundo.png" group-title="Colombia",Azmundo HD CO
 http://ipflix.click:8080/h602/rflx42k17c/21344
-#EXTINF:-1 tvg-id="" tvg-name="BBC World CO" tvg-logo="" group-title="Colombia",BBC World CO
-http://ipflix.click:8080/h602/rflx42k17c/21342
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg CO" tvg-logo="http://pici.life/picon/bloomberg.png" group-title="Colombia",Bloomberg CO
-http://ipflix.click:8080/h602/rflx42k17c/21341
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang CO" tvg-logo="http://pici.life/Logo/boomerang.png" group-title="Colombia",Boomerang CO
-http://ipflix.click:8080/h602/rflx42k17c/21340
 #EXTINF:-1 tvg-id="CableNoticias.co" tvg-name="Cablenoticias HD CO" tvg-logo="http://pici.life/CO/Cablenoticias.png" group-title="Colombia",Cablenoticias HD CO
 http://ipflix.click:8080/h602/rflx42k17c/21339
-#EXTINF:-1 tvg-id="ClaroTV.co" tvg-name="Canal Claro HD CO" tvg-logo="http://pici.life/CO/Canal_Claro.png" group-title="Colombia",Canal Claro HD CO
-http://ipflix.click:8080/h602/rflx42k17c/21337
-#EXTINF:-1 tvg-id="" tvg-name="Canal De Las Estrellas CO" tvg-logo="http://pici.life/picon/lasestrellaslam.png" group-title="Colombia",Canal De Las Estrellas CO
-http://ipflix.click:8080/h602/rflx42k17c/21336
-#EXTINF:-1 tvg-id="Cinecanal.co" tvg-name="Cine Canal HD CO" tvg-logo="http://pici.life/CO/Cine_Canal.png" group-title="Colombia",Cine Canal HD CO
-http://ipflix.click:8080/h602/rflx42k17c/21334
-#EXTINF:-1 tvg-id="" tvg-name="Cine Latino CO" tvg-logo="http://pici.life/CO/Cine_Latino.png" group-title="Colombia",Cine Latino CO
-http://ipflix.click:8080/h602/rflx42k17c/21333
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD CO" tvg-logo="http://pici.life/picon/comedycentralhd_2.png" group-title="Colombia",Comedy Central HD CO
 http://ipflix.click:8080/h602/rflx42k17c/21328
-#EXTINF:-1 tvg-id="" tvg-name="Depelicula CO" tvg-logo="http://pici.life/picon/depelicula.png" group-title="Colombia",Depelicula CO
-http://ipflix.click:8080/h602/rflx42k17c/21324
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel CO" tvg-logo="http://pici.life/Logo/discoveryhd.png" group-title="Colombia",Discovery Channel CO
 http://ipflix.click:8080/h602/rflx42k17c/21323
 #EXTINF:-1 tvg-id="rcn.co" tvg-name="RCN CO" tvg-logo="http://pici.life/CO/RCN.png" group-title="Colombia",RCN CO
 http://ipflix.click:8080/h602/rflx42k17c/50891
-#EXTINF:-1 tvg-id="rcn.co" tvg-name="RCN HD CO" tvg-logo="http://pici.life/CO/RCN.png" group-title="Colombia",RCN HD CO
-http://ipflix.click:8080/h602/rflx42k17c/629052
 #EXTINF:-1 tvg-id="senal.co" tvg-name="Senal Colombia HD CO" tvg-logo="http://pici.life/Logo/senal_co.png" group-title="Colombia",Senal Colombia HD CO
 http://ipflix.click:8080/h602/rflx42k17c/629054
 #EXTINF:-1 tvg-id="" tvg-name="Win Sports CO" tvg-logo="http://pici.life/CO/WinSports.png" group-title="Colombia",Win Sports CO
