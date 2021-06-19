@@ -1,3 +1,16 @@
+#EXTINF:-1 tvg-id="" tvg-name="EC DEP | DIRECT TV SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="ECUADOR",EC DEP | DIRECT TV SPORTS HD
+http://lozanostv.net:8000/iptv/iptv/5277
+#EXTINF:-1 tvg-id="" tvg-name="EC DEP | DIRECT TV SPORTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="ECUADOR",EC DEP | DIRECT TV SPORTS SD
+http://lozanostv.net:8000/iptv/iptv/5274
+#EXTINF:-1 tvg-id="" tvg-name="EC DEP | EL CANAL DEL FUTBOL" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/43e92c72360587.Y3JvcCwxNzkyLDE0MDIsNTMyLDE1OQ.png" group-title="ECUADOR",EC DEP | EL CANAL DEL FUTBOL
+http://lozanostv.net:8000/iptv/iptv/45511
+#EXTINF:-1 tvg-id="" tvg-name="EC DEP | GOL TV FHD" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf.jpg" group-title="ECUADOR",EC DEP | GOL TV FHD
+http://lozanostv.net:8000/iptv/iptv/3114
+#EXTINF:-1 tvg-id="" tvg-name="EC DEP | GOL TV HD" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf.jpg" group-title="ECUADOR",EC DEP | GOL TV HD
+http://lozanostv.net:8000/iptv/iptv/1307
+#EXTINF:-1 tvg-id="" tvg-name="EC DEP | GOL TV SD " tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf.jpg" group-title="ECUADOR",EC DEP | GOL TV SD 
+http://lozanostv.net:8000/iptv/iptv/5346
+
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | BEIN SPORTS Ñ" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/bein_sports_english_c.png" group-title="DEPORTES SD",DEPORTES | BEIN SPORTS Ñ
 http://lozanostv.net:8000/iptv/iptv/9006
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | BEIN SPORTS LA LIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BeIN_LaLiga_HD.png/300px-BeIN_LaLiga_HD.png" group-title="DEPORTES SD",DEPORTES | BEIN SPORTS LA LIGA
