@@ -260,22 +260,90 @@ http://lozanostv.net:8000/iptv/iptv/7968
 http://lozanostv.net:8000/iptv/iptv/7967
 #EXTINF:-1 tvg-id="" tvg-name="ARG DEP | TYC SPORTS" tvg-logo="http://144.217.91.146/Logos/Argentina/tyc-sports.png" group-title="ARGENTINA",ARG DEP | TYC SPORTS
 http://lozanostv.net:8000/iptv/iptv/7979
-#EXTINF:-1 tvg-id="" tvg-name="BOL | ATB" tvg-logo="https://tvmi.com.bo/wp-content/uploads/sites/2/2017/11/logoatb.png" group-title="BOLIVIA",BOL | ATB
-http://lozanostv.net:8000/iptv/iptv/45580
-#EXTINF:-1 tvg-id="" tvg-name="BOL | BOLIVIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/BoliviaTVlogotwo.png" group-title="BOLIVIA",BOL | BOLIVIA TV
-http://lozanostv.net:8000/iptv/iptv/47755
-#EXTINF:-1 tvg-id="" tvg-name="BOL | Bolivision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BolivisionHD.png/150px-BolivisionHD.png" group-title="BOLIVIA",BOL | Bolivision
-http://lozanostv.net:8000/iptv/iptv/45578
-#EXTINF:-1 tvg-id="" tvg-name="BOL | RED UNO" tvg-logo="https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png" group-title="BOLIVIA",BOL | RED UNO
-http://lozanostv.net:8000/iptv/iptv/48385
-#EXTINF:-1 tvg-id="" tvg-name="BOL | RTP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/RTP_Bolivia_Hd.png/120px-RTP_Bolivia_Hd.png" group-title="BOLIVIA",BOL | RTP
-http://lozanostv.net:8000/iptv/iptv/45581
-#EXTINF:-1 tvg-id="" tvg-name="BOL | UNITEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Unitel_logo_HD.png" group-title="BOLIVIA",BOL | UNITEL
-http://lozanostv.net:8000/iptv/iptv/47754
+
 #EXTINF:-1 tvg-id="" tvg-name="BOL DEP | Tigo Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/245px-Tigo_Sports_logo.svg.png" group-title="BOLIVIA",BOL DEP | Tigo Sports 1 HD
 http://lozanostv.net:8000/iptv/iptv/45582
 #EXTINF:-1 tvg-id="" tvg-name="BOL DEP | Tigo Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/245px-Tigo_Sports_logo.svg.png" group-title="BOLIVIA",BOL DEP | Tigo Sports 2 HD
 http://lozanostv.net:8000/iptv/iptv/45584
 #EXTINF:-1 tvg-id="" tvg-name="BOL DEP | Tigo Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/245px-Tigo_Sports_logo.svg.png" group-title="BOLIVIA",BOL DEP | Tigo Sports 3 HD
 http://lozanostv.net:8000/iptv/iptv/45586
+
+#EXTINF:-1 tvg-id="88039" tvg-name="DUAL | A&E FHD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_a-e-mundo_m.png" group-title="PREMIUM  FHD",DUAL | A&E FHD
+http://lozanostv.net:8000/iptv/iptv/48342
+#EXTINF:-1 tvg-id="88039" tvg-name="DUAL | AMC FHD" tvg-logo="http://144.217.91.146/Logos/1Claro/AMCHDWHORIZONTAL.jpg" group-title="PREMIUM  FHD",DUAL | AMC FHD
+http://lozanostv.net:8000/iptv/iptv/48343
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="DUAL | AXN FHD" tvg-logo="http://144.217.91.146/Logos/1Claro/AXNHDWHORIZONTAL.jpg" group-title="PREMIUM  FHD",DUAL | AXN FHD
+http://lozanostv.net:8000/iptv/iptv/48344
+#EXTINF:-1 tvg-id="cinecanalhd.mx" tvg-name="DUAL | CINECANAL FHD" tvg-logo="http://144.217.91.146/Logos/1Claro/CINECANALHDWHORIZONTAL.png" group-title="PREMIUM  FHD",DUAL | CINECANAL FHD
+http://lozanostv.net:8000/iptv/iptv/48345
+#EXTINF:-1 tvg-id="" tvg-name="DUAL | DHE FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1280px-Canal_DHE_logo.svg.png" group-title="PREMIUM  FHD",DUAL | DHE FHD 
+http://lozanostv.net:8000/iptv/iptv/48365
+#EXTINF:-1 tvg-id="88039" tvg-name="DUAL | DISCOVERY CHANNEL FHD" tvg-logo="https://lapublicidad.net/wp-content/uploads/2017/01/Discovery_Channel_International.jpg" group-title="PREMIUM  FHD",DUAL | DISCOVERY CHANNEL FHD
+http://lozanostv.net:8000/iptv/iptv/48377
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="DUAL | DISCOVERY H&H FHD" tvg-logo="https://img2.freepng.es/20180605/lqp/kisspng-discovery-home-health-discovery-channel-discover-discovery-travel-living-5b174cebab5d41.5384504915282536757019.jpg" group-title="PREMIUM  FHD",DUAL | DISCOVERY H&H FHD
+http://lozanostv.net:8000/iptv/iptv/48379
+#EXTINF:-1 tvg-id="88039" tvg-name="DUAL | DISCOVERY ID FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="PREMIUM  FHD",DUAL | DISCOVERY ID FHD 
+http://lozanostv.net:8000/iptv/iptv/48373
+#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="DUAL | DISCOVERY THEATHER FHD" tvg-logo="https://i.imgur.com/lIhYgSg.png" group-title="PREMIUM  FHD",DUAL | DISCOVERY THEATHER FHD
+http://lozanostv.net:8000/iptv/iptv/48380
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="DUAL | DISCOVERY WORLD FHD" tvg-logo="https://fullcanaleshd.files.wordpress.com/2016/05/e97f3-discovery2bworld2ben2bvivo.png" group-title="PREMIUM  FHD",DUAL | DISCOVERY WORLD FHD
+http://lozanostv.net:8000/iptv/iptv/48378
+#EXTINF:-1 tvg-id="88039" tvg-name="DUAL | FILM & ARTS FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/65/Film-%26-Arts.png/revision/latest?cb=20170101180238" group-title="PREMIUM  FHD",DUAL | FILM & ARTS FHD
+http://lozanostv.net:8000/iptv/iptv/48366
+#EXTINF:-1 tvg-id="foxactionhd.mx" tvg-name="DUAL | STAR ACTION FHD" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARACTION_t-290x163.png" group-title="PREMIUM  FHD",DUAL | STAR ACTION FHD
+http://lozanostv.net:8000/iptv/iptv/48346
+#EXTINF:-1 tvg-id="fox.mx" tvg-name="DUAL | STAR CHANNEL FHD" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARCHANNEL_t-290x163.png" group-title="PREMIUM  FHD",DUAL | STAR CHANNEL FHD
+http://lozanostv.net:8000/iptv/iptv/48347
+#EXTINF:-1 tvg-id="foxcomedyhd.mx" tvg-name="DUAL | STAR COMEDY FHD" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARCOMEDY_t-290x163.png" group-title="PREMIUM  FHD",DUAL | STAR COMEDY FHD
+http://lozanostv.net:8000/iptv/iptv/48348
+#EXTINF:-1 tvg-id="foxfamilyhd.mx" tvg-name="DUAL | STAR FUN FHD" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARFUN_t-290x163.png" group-title="PREMIUM  FHD",DUAL | STAR FUN FHD
+http://lozanostv.net:8000/iptv/iptv/48349
+#EXTINF:-1 tvg-id="foxmovieshd.mx" tvg-name="DUAL | STAR HITS FHD" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARHITS_t-290x163.png" group-title="PREMIUM  FHD",DUAL | STAR HITS FHD
+http://lozanostv.net:8000/iptv/iptv/48350
+#EXTINF:-1 tvg-id="A and E US - Eastern Feed-US" tvg-name="DUAL | STAR SERIES FHD" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARSERIES_t-290x163.png" group-title="PREMIUM  FHD",DUAL | STAR SERIES FHD
+http://lozanostv.net:8000/iptv/iptv/48351
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="DUAL | FX FHD" tvg-logo="https://fng-resizer-qp.foxplay.com/resizer/resizer?service=fng&surl=http://fng-vod-qp.foxplay.com/fng_img/2016-10/FX-Channel_Logo_16x91475780207059.png&h=FAA937A43973E54C7D31C29DAD126D830A9BEC1ABF7E77AFF148AF2C48D9E26" group-title="PREMIUM  FHD",DUAL | FX FHD
+http://lozanostv.net:8000/iptv/iptv/48367
+#EXTINF:-1 tvg-id="fxmovies.mx" tvg-name="DUAL | FXM FHD" tvg-logo="http://144.217.91.146/Logos/1Claro/FXMHDWHORIZONTAL.jpg" group-title="PREMIUM  FHD",DUAL | FXM FHD
+http://lozanostv.net:8000/iptv/iptv/48352
+#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="DUAL | GOLDEN PREMIER FHD" tvg-logo="http://144.217.91.146/Logos/1Claro/GOLDENPREMIERHDWHORIZONTAL.jpg" group-title="PREMIUM  FHD",DUAL | GOLDEN PREMIER FHD
+http://lozanostv.net:8000/iptv/iptv/48353
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="DUAL | HBO 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HBO2_logo.png/149px-HBO2_logo.png" group-title="PREMIUM  FHD",DUAL | HBO 2 FHD
+http://lozanostv.net:8000/iptv/iptv/48354
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="DUAL | HBO FAMILY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/135px-HBO_Family_logo.png" group-title="PREMIUM  FHD",DUAL | HBO FAMILY FHD
+http://lozanostv.net:8000/iptv/iptv/48355
+#EXTINF:-1 tvg-id="88039" tvg-name="DUAL | HBO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PREMIUM  FHD",DUAL | HBO FHD
+http://lozanostv.net:8000/iptv/iptv/48356
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="DUAL | HBO PLUS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" group-title="PREMIUM  FHD",DUAL | HBO PLUS FHD
+http://lozanostv.net:8000/iptv/iptv/48357
+#EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="DUAL | HBO SIGNATURE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/135px-HBO_Signature.svg.png" group-title="PREMIUM  FHD",DUAL | HBO SIGNATURE FHD
+http://lozanostv.net:8000/iptv/iptv/48374
+#EXTINF:-1 tvg-id="HBO Zone - East-US" tvg-name="DUAL | HBO XTREME FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="PREMIUM  FHD",DUAL | HBO XTREME FHD
+http://lozanostv.net:8000/iptv/iptv/48368
+#EXTINF:-1 tvg-id="88039" tvg-name="DUAL | HISTORY FHD" tvg-logo="https://i.pinimg.com/originals/c9/f9/fa/c9f9fa05d3663b6643c5079f9ccba0a6.jpg" group-title="PREMIUM  FHD",DUAL | HISTORY FHD
+http://lozanostv.net:8000/iptv/iptv/48376
+#EXTINF:-1 tvg-id="maxprime.mx" tvg-name="DUAL | MAX PRIME FHD" tvg-logo="http://144.217.91.146/Logos/1Claro/MAXPRIMEESTEHDWHORIZONTAL.jpg" group-title="PREMIUM  FHD",DUAL | MAX PRIME FHD
+http://lozanostv.net:8000/iptv/iptv/48375
+#EXTINF:-1 tvg-id="maxup.mx" tvg-name="DUAL | MAX UP FHD" tvg-logo="http://144.217.91.146/Logos/1Claro/MAXUPHDWHORIZONTAL.jpg" group-title="PREMIUM  FHD",DUAL | MAX UP FHD
+http://lozanostv.net:8000/iptv/iptv/48358
+#EXTINF:-1 tvg-id="88039" tvg-name="DUAL | NAT GEO FHD" tvg-logo="https://www.stickpng.com/assets/images/5a0c74bd9642de34b6b65cf5.png" group-title="PREMIUM  FHD",DUAL | NAT GEO FHD
+http://lozanostv.net:8000/iptv/iptv/48371
+#EXTINF:-1 tvg-id="88039" tvg-name="DUAL | NATGEO WILD FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="PREMIUM  FHD",DUAL | NATGEO WILD FHD 
+http://lozanostv.net:8000/iptv/iptv/48372
+#EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="DUAL | PARAMOUNT CHANNEL FHD" tvg-logo="http://144.217.91.146/Logos/1Claro/PARAMOUNTCHANNELHDWHORIZONTAL.jpg" group-title="PREMIUM  FHD",DUAL | PARAMOUNT CHANNEL FHD
+http://lozanostv.net:8000/iptv/iptv/48359
+#EXTINF:-1 tvg-id="sonyhd.mx" tvg-name="DUAL | SONY FHD" tvg-logo="https://i.pinimg.com/originals/fa/89/a2/fa89a27334e354cb59b78a61893aada1.jpg" group-title="PREMIUM  FHD",DUAL | SONY FHD
+http://lozanostv.net:8000/iptv/iptv/48369
+#EXTINF:-1 tvg-id="space.mx" tvg-name="DUAL | SPACE FHD" tvg-logo="http://144.217.91.146/Logos/1Claro/SPACEHDWHORIZONTAL.jpg" group-title="PREMIUM  FHD",DUAL | SPACE FHD
+http://lozanostv.net:8000/iptv/iptv/48361
+#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="DUAL | STUDIO UNIVERSAL FHD" tvg-logo="http://144.217.91.146/Logos/1Claro/STUDIOUNIVERSALWHORIZONTAL.jpg" group-title="PREMIUM  FHD",DUAL | STUDIO UNIVERSAL FHD
+http://lozanostv.net:8000/iptv/iptv/48360
+#EXTINF:-1 tvg-id="88039" tvg-name="DUAL | TBS FHD" tvg-logo="http://144.217.91.146/Logos/1Claro/TBSHDWHORIZONTAL.png" group-title="PREMIUM  FHD",DUAL | TBS FHD
+http://lozanostv.net:8000/iptv/iptv/48362
+#EXTINF:-1 tvg-id="88039" tvg-name="DUAL | TNT FHD" tvg-logo="https://i.pinimg.com/originals/46/88/e6/4688e66e78ed451e0d55733386ead24d.jpg" group-title="PREMIUM  FHD",DUAL | TNT FHD
+http://lozanostv.net:8000/iptv/iptv/48363
+#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="DUAL | TNT SERIES FHD" tvg-logo="https://i.ibb.co/G504hFJ/descarga-10.png" group-title="PREMIUM  FHD",DUAL | TNT SERIES FHD
+http://lozanostv.net:8000/iptv/iptv/48364
+#EXTINF:-1 tvg-id="warnerchannel.mx" tvg-name="DUAL | WARNER CHANNEL FHD " tvg-logo="https://tvnotiblog.com/wp-content/uploads/2015/04/wbtv-890x538.jpg" group-title="PREMIUM  FHD",DUAL | WARNER CHANNEL FHD 
+http://lozanostv.net:8000/iptv/iptv/48370
 
