@@ -24,7 +24,7 @@ http://lozanostv.net:8000/iptv/iptv/1307
 
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | BEIN SPORTS Ñ" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/bein_sports_english_c.png" group-title="DEPORTES SD",DEPORTES | BEIN SPORTS Ñ
 http://lozanostv.net:8000/iptv/iptv/9006
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | BEIN SPORTS LA LIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BeIN_LaLiga_HD.png/300px-BeIN_LaLiga_HD.png" group-title="DEPORTES SD",DEPORTES | BEIN SPORTS LA LIGA
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | BEIN SPORTS LA LIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BeIN_LaLiga_HD.png/300px-BeIN_LaLiga_HD.png" group-title="DEPORTES SD",DEPORTES | BEIN SPORTS LA LIGA   
 http://lozanostv.net:8000/iptv/iptv/9008
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | BEIN SPORTS 1 ARB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="DEPORTES HD",DEPORTES HD | BEIN SPORTS 1 ARB
 http://lozanostv.net:8000/iptv/iptv/8635
