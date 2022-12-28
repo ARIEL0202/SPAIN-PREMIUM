@@ -48,8 +48,6 @@ http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/26583
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/26584
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Candy Candy" tvg-logo="https://i.ebayimg.com/images/g/FtoAAOSwrBxaqHRk/s-l300.jpg" group-title="LAT - Canales 24H "Caricaturas"",24/7 Candy Candy
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/26588
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hannah Montana Temp 1" tvg-logo="https://larrybrownsports.com/wp-content/uploads/2016/04/hannah-montana.jpg" group-title="LAT - Canales 24H "Caricaturas"",24/7 Hannah Montana Temp 1
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/26592
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Oso Yogui" tvg-logo="https://i.pinimg.com/originals/39/6c/54/396c5410a85249fd5f007abf949205d2.jpg" group-title="LAT - Canales 24H "Caricaturas"",24/7 El Oso Yogui
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/26600
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La Hormiga y el Oso Hormiguero" tvg-logo="https://i.pinimg.com/originals/d0/e2/48/d0e248ee2b9779191e9711aed42ad759.jpg" group-title="LAT - Canales 24H "Caricaturas"",24/7 La Hormiga y el Oso Hormiguero
