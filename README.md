@@ -6,6 +6,18 @@ http://nxt.plus:8080/olmos/1234guz/3268
 http://nxt.plus:8080/olmos/1234guz/16903
 #EXTINF:-1 tvg-id="FXChile.cl" tvg-name="FX ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/fx-hd.png" group-title="CINE / SERIES | HD",FX ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/3270
+#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="UNIVERSAL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-hd.png" group-title="CINE / SERIES | HD",UNIVERSAL ᴴᴰ
+http://nxt.plus:8080/olmos/1234guz/3271
+#EXTINF:-1 tvg-id="AR - Studio Universal" tvg-name="STUDIO UNIVERSAL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/studio-universal-hd.png" group-title="CINE / SERIES | HD",STUDIO UNIVERSAL ᴴᴰ
+http://nxt.plus:8080/olmos/1234guz/9780
+#EXTINF:-1 tvg-id="SpacePanregional.us" tvg-name="SPACE ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/space-hd.png" group-title="CINE / SERIES | HD",SPACE ᴴᴰ
+http://nxt.plus:8080/olmos/1234guz/16922
+#EXTINF:-1 tvg-id="TNTSeriesArgentina.ar" tvg-name="TNT SERIES ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/tnt-series-hd.png" group-title="CINE / SERIES | HD",TNT SERIES ᴴᴰ
+http://nxt.plus:8080/olmos/1234guz/16925
+#EXTINF:-1 tvg-id="TNTChile.cl" tvg-name="TNT ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/tnt-hd.png" group-title="CINE / SERIES | HD",TNT ᴴᴰ
+http://nxt.plus:8080/olmos/1234guz/25213
+#EXTINF:-1 tvg-id="AMCSouth.us" tvg-name="AMC ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/amc.png" group-title="CINE / SERIES | HD",AMC ᴴᴰ
+http://nxt.plus:8080/olmos/1234guz/24818
 
 #EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="SONY CHANNEL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/sony-hd.png" group-title="CINE / SERIES | HD",SONY CHANNEL ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/16921
@@ -20,6 +32,10 @@ http://nxt.plus:8080/olmos/1234guz/16917
 http://nxt.plus:8080/olmos/1234guz/1639
 #EXTINF:-1 tvg-id="Discovery.cl" tvg-name="DISCOVERY ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/discovery-hd.png" group-title="CULTURA",DISCOVERY ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/2826
+#EXTINF:-1 tvg-id="Discovery.cl" tvg-name="DISCOVERY" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/discovery.png" group-title="CULTURA",DISCOVERY
+http://nxt.plus:8080/olmos/1234guz/59087
+#EXTINF:-1 tvg-id="NationalGeographic.gt" tvg-name="NAT GEO" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/nat-geo.png" group-title="CULTURA",NAT GEO
+http://nxt.plus:8080/olmos/1234guz/59141
 
 #EXTINF:-1 tvg-id="AE.ar" tvg-name="A&E ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/ae-hd.png" group-title="CINE / SERIES | HD",A&E ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/58123
@@ -62,61 +78,17 @@ http://nxt.plus:8080/olmos/1234guz/57255
 http://nxt.plus:8080/olmos/1234guz/60563
 #EXTINF:-1 tvg-id="NationalGeographic.gt" tvg-name="NAT GEO  ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/nat-geo-hd.png" group-title="CULTURA",NAT GEO  ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/43549
-
 #EXTINF:-1 tvg-id="Mtv.la" tvg-name="MTV ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/musica/mtv-hd.png" group-title="MÚSICA",MTV ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/43548
 #EXTINF:-1 tvg-id="TelemundoCentralAmerica.us" tvg-name="TELEMUNDO INT ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/telemundo-int-hd.png" group-title="VARIEDADES",TELEMUNDO INT ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/24528
 #EXTINF:-1 tvg-id="TelemundoCentralAmerica.us" tvg-name="TELEMUNDO INT" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/telemundo-hd.png" group-title="VARIEDADES",TELEMUNDO INT
 http://nxt.plus:8080/olmos/1234guz/43573
-#EXTINF:-1 tvg-id="" tvg-name="AVIVAMIENTO TV" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/religion/avivamiento-tv.png" group-title="RELIGIÓN",AVIVAMIENTO TV
-http://nxt.plus:8080/olmos/1234guz/77104
-#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="UNIVERSAL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-hd.png" group-title="CINE / SERIES | HD",UNIVERSAL ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/3271
-#EXTINF:-1 tvg-id="AR - Studio Universal" tvg-name="STUDIO UNIVERSAL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/studio-universal-hd.png" group-title="CINE / SERIES | HD",STUDIO UNIVERSAL ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/9780
-#EXTINF:-1 tvg-id="SpacePanregional.us" tvg-name="SPACE ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/space-hd.png" group-title="CINE / SERIES | HD",SPACE ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/16922
-#EXTINF:-1 tvg-id="TNTSeriesArgentina.ar" tvg-name="TNT SERIES ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/tnt-series-hd.png" group-title="CINE / SERIES | HD",TNT SERIES ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/16925
-#EXTINF:-1 tvg-id="TNTChile.cl" tvg-name="TNT ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/tnt-hd.png" group-title="CINE / SERIES | HD",TNT ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/25213
-#EXTINF:-1 tvg-id="" tvg-name="LOGOS TV" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/religion/logos-tv.png" group-title="RELIGIÓN",LOGOS TV
-http://nxt.plus:8080/olmos/1234guz/77064
-#EXTINF:-1 tvg-id="" tvg-name="JN19 (PE)" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/religion/jn19.png" group-title="RELIGIÓN",JN19 (PE)
-http://nxt.plus:8080/olmos/1234guz/77069
-#EXTINF:-1 tvg-id="" tvg-name="FARO DE SANTIDAD TV | PR" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/religion/faro-de-santidad-tv.png" group-title="RELIGIÓN",FARO DE SANTIDAD TV | PR
-http://nxt.plus:8080/olmos/1234guz/77078
-#EXTINF:-1 tvg-id="" tvg-name="TV CRET | SV" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/religion/tv-cret-sv.png" group-title="RELIGIÓN",TV CRET | SV
-http://nxt.plus:8080/olmos/1234guz/77095
 #EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="CAZA Y PESCA ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/caza-y-pesca-hd.png" group-title="⚽ DEPORTES",CAZA Y PESCA ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/23121
-#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="WIN SPORTS+" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/win-sports-plus.png" group-title="⚽ DEPORTES",WIN SPORTS+
-http://nxt.plus:8080/olmos/1234guz/46973
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="CARTOON NETWORK" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/infantil/cartoon-network.png" group-title="INFANTIL",CARTOON NETWORK
 http://nxt.plus:8080/olmos/1234guz/43513
-#EXTINF:-1 tvg-id="Cartoonito.us" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/infantil/cartoonito.png" group-title="INFANTIL",CARTOONITO
-http://nxt.plus:8080/olmos/1234guz/60568
-#EXTINF:-1 tvg-id="AMCSouth.us" tvg-name="AMC ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/amc.png" group-title="CINE / SERIES | HD",AMC ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/24818
-#EXTINF:-1 tvg-id="Discovery.cl" tvg-name="DISCOVERY" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/discovery.png" group-title="CULTURA",DISCOVERY
-http://nxt.plus:8080/olmos/1234guz/59087
-#EXTINF:-1 tvg-id="NationalGeographic.gt" tvg-name="NAT GEO" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/nat-geo.png" group-title="CULTURA",NAT GEO
-http://nxt.plus:8080/olmos/1234guz/59141
-#EXTINF:-1 tvg-id="FUTV.HDTV.(Costa.Rica).(FUTVHD).[786].cr" tvg-name="FUTV ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/futv-hd.png" group-title="⚽ DEPORTES",FUTV ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/69657
-#EXTINF:-1 tvg-id="GOLPERU.HD.(GOLPERU.HD).pe" tvg-name="GOLPERU" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/gol-peru.png" group-title="PERÚ",GOLPERU
-http://nxt.plus:8080/olmos/1234guz/9758
-#EXTINF:-1 tvg-id="GolTV" tvg-name="GOL TV | EC" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/gol-tv.png" group-title="⚽ DEPORTES",GOL TV | EC
-http://nxt.plus:8080/olmos/1234guz/53691
-#EXTINF:-1 tvg-id="FOXSports2.uy" tvg-name="FOX SPORTS 2 | SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-2-sur-hd.png" group-title="⚽ ESPN / FOX SPORTS",FOX SPORTS 2 | SUR ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/13229
-#EXTINF:-1 tvg-id="ESPNExtra.uy" tvg-name="ESPN EXTRA | SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-extra-sur-hd.png" group-title="⚽ ESPN / FOX SPORTS",ESPN EXTRA | SUR ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/16915
-#EXTINF:-1 tvg-id="FOXSports3.uy" tvg-name="FOX SPORTS 3 | SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-3-sur-hd.png" group-title="⚽ ESPN / FOX SPORTS",FOX SPORTS 3 | SUR ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/24405
-#EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN 1 | CO" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-co.png" group-title="⚽ ESPN / FOX SPORTS",ESPN 1 | CO
-http://nxt.plus:8080/olmos/1234guz/43528
+
 #EXTINF:-1 tvg-id="ESPN2Chile.cl" tvg-name="ESPN 1 | CL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-cl-hd.png" group-title="⚽ ESPN / FOX SPORTS",ESPN 1 | CL ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/58201
 #EXTINF:-1 tvg-id="ESPN2Chile.cl" tvg-name="ESPN 2 | CL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-cl-hd.png" group-title="⚽ ESPN / FOX SPORTS",ESPN 2 | CL ᴴᴰ
