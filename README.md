@@ -1,61 +1,68 @@
-#EXTINF:-1 tvg-id="AR - Warner Channel" tvg-name="WARNER TV ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/warner-channel-hd.png" group-title="CINE / SERIES | HD",WARNER TV ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/1024
-#EXTINF:-1 tvg-id="NickJr.gt" tvg-name="NICK JR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/infantil/nick-jr.png" group-title="INFANTIL",NICK JR ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/3429
+#EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO | Dual Audio ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-hd.png" group-title="CINE / SERIES | HD",HBO | Dual Audio ᴴᴰ
+http://nxt.plus:8080/olmos/1234guz/16897
 #EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-name="PARAMOUNT CHANNEL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/paramount-channel-hd.png" group-title="CINE / SERIES | HD",PARAMOUNT CHANNEL ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/3268
-#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-name="HISTORY 2 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/h2-hd.png" group-title="CULTURA",HISTORY 2 ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/9783
-#EXTINF:-1 tvg-id="ComedyCentralLatinAmericaSouth.us" tvg-name="COMEDY CENTRAL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/comedy-central-hd.png" group-title="CINE / SERIES | HD",COMEDY CENTRAL ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/9767
-#EXTINF:-1 tvg-id="DiscoveryTheaterHDLatinAmerica.us" tvg-name="DISCOVERY THEATHER ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/discovery-theather-hd.png" group-title="CULTURA",DISCOVERY THEATHER ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/13969
-#EXTINF:-1 tvg-id="EAndes.us" tvg-name="E! ENTERTAIMENT ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/e-entertainment-hd.png" group-title="VARIEDADES",E! ENTERTAIMENT ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/15302
-#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="TV PERU NOTICIAS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-peru-noticias-pe.png" group-title="PERÚ",TV PERU NOTICIAS
-http://nxt.plus:8080/olmos/1234guz/15642
 #EXTINF:-1 tvg-id="CinemaxPanregional.us" tvg-name="CINEMAX ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/cinemax-hd.png" group-title="CINE / SERIES | HD",CINEMAX ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/16903
-#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="ANIMAL PLANET ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/animal-planet-hd.png" group-title="CULTURA",ANIMAL PLANET ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/16904
-#EXTINF:-1 tvg-id="DisneyChannelCenter.us" tvg-name="DISNEY CHANNEL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/infantil/disney-channel-hd.png" group-title="INFANTIL",DISNEY CHANNEL ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/16908
-#EXTINF:-1 tvg-id="History.cl" tvg-name="HISTORY CHANNEL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/history-hd.png" group-title="CULTURA",HISTORY CHANNEL ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/16917
+#EXTINF:-1 tvg-id="FXChile.cl" tvg-name="FX ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/fx-hd.png" group-title="CINE / SERIES | HD",FX ᴴᴰ
+http://nxt.plus:8080/olmos/1234guz/3270
+
 #EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="SONY CHANNEL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/sony-hd.png" group-title="CINE / SERIES | HD",SONY CHANNEL ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/16921
 #EXTINF:-1 tvg-id="AXNPacific.us" tvg-name="AXN ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/axn-hd.png" group-title="CINE / SERIES | HD",AXN ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/1021
+
+#EXTINF:-1 tvg-id="DiscoveryTheaterHDLatinAmerica.us" tvg-name="DISCOVERY THEATHER ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/discovery-theather-hd.png" group-title="CULTURA",DISCOVERY THEATHER ᴴᴰ
+http://nxt.plus:8080/olmos/1234guz/13969
+#EXTINF:-1 tvg-id="History.cl" tvg-name="HISTORY CHANNEL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/history-hd.png" group-title="CULTURA",HISTORY CHANNEL ᴴᴰ
+http://nxt.plus:8080/olmos/1234guz/16917
+#EXTINF:-1 tvg-id="DiscoveryWorldHDPanregional.us" tvg-name="DISCOVERY WORLD ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/discovery-world-hd.png" group-title="CULTURA",DISCOVERY WORLD ᴴᴰ
+http://nxt.plus:8080/olmos/1234guz/1639
+#EXTINF:-1 tvg-id="Discovery.cl" tvg-name="DISCOVERY ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/discovery-hd.png" group-title="CULTURA",DISCOVERY ᴴᴰ
+http://nxt.plus:8080/olmos/1234guz/2826
+
+#EXTINF:-1 tvg-id="AE.ar" tvg-name="A&E ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/ae-hd.png" group-title="CINE / SERIES | HD",A&E ᴴᴰ
+http://nxt.plus:8080/olmos/1234guz/58123
+#EXTINF:-1 tvg-id="EAndes.us" tvg-name="E! ENTERTAIMENT ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/e-entertainment-hd.png" group-title="VARIEDADES",E! ENTERTAIMENT ᴴᴰ
+http://nxt.plus:8080/olmos/1234guz/15302
+#EXTINF:-1 tvg-id="LifetimePanregional.us" tvg-name="LIFETIME" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/lifetime.png" group-title="VARIEDADES",LIFETIME
+http://nxt.plus:8080/olmos/1234guz/43547
+
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="CNN EN ESPAÑOL ᴴᴰ" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_espanol.png" group-title="NOTICIAS",CNN EN ESPAÑOL ᴴᴰ
+http://nxt.plus:8080/olmos/1234guz/59075
+
+
+#EXTINF:-1 tvg-id="AR - Warner Channel" tvg-name="WARNER TV ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/warner-channel-hd.png" group-title="CINE / SERIES | HD",WARNER TV ᴴᴰ
+http://nxt.plus:8080/olmos/1234guz/1024
+#EXTINF:-1 tvg-id="NickJr.gt" tvg-name="NICK JR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/infantil/nick-jr.png" group-title="INFANTIL",NICK JR ᴴᴰ
+http://nxt.plus:8080/olmos/1234guz/3429
+#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-name="HISTORY 2 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/h2-hd.png" group-title="CULTURA",HISTORY 2 ᴴᴰ
+http://nxt.plus:8080/olmos/1234guz/9783
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmericaSouth.us" tvg-name="COMEDY CENTRAL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/comedy-central-hd.png" group-title="CINE / SERIES | HD",COMEDY CENTRAL ᴴᴰ
+http://nxt.plus:8080/olmos/1234guz/9767
+#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="TV PERU NOTICIAS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-peru-noticias-pe.png" group-title="PERÚ",TV PERU NOTICIAS
+http://nxt.plus:8080/olmos/1234guz/15642
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="ANIMAL PLANET ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/animal-planet-hd.png" group-title="CULTURA",ANIMAL PLANET ᴴᴰ
+http://nxt.plus:8080/olmos/1234guz/16904
+#EXTINF:-1 tvg-id="DisneyChannelCenter.us" tvg-name="DISNEY CHANNEL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/infantil/disney-channel-hd.png" group-title="INFANTIL",DISNEY CHANNEL ᴴᴰ
+http://nxt.plus:8080/olmos/1234guz/16908
 #EXTINF:-1 tvg-id="Discovery.Kids.(Latin.America).(DSCKDS).[302].cr" tvg-name="DISCOVERY KIDS ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/infantil/discovery-kids-hd.png" group-title="INFANTIL",DISCOVERY KIDS ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/757
 #EXTINF:-1 tvg-id="DisneyJuniorSpain.es" tvg-name="DISNEY JR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/infantil/disney-jr-hd.png" group-title="INFANTIL",DISNEY JR ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/16909
-#EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO | Dual Audio ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-hd.png" group-title="CINE / SERIES | HD",HBO | Dual Audio ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/16897
 #EXTINF:-1 tvg-id="TeleSUR.(USA.and.LTAM).(TSUR).ar" tvg-name="TELESUR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telesur_ve.png" group-title="VENEZUELA",TELESUR
 http://nxt.plus:8080/olmos/1234guz/27594
-#EXTINF:-1 tvg-id="LifetimePanregional.us" tvg-name="LIFETIME" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/lifetime.png" group-title="VARIEDADES",LIFETIME
-http://nxt.plus:8080/olmos/1234guz/43547
-#EXTINF:-1 tvg-id="FXChile.cl" tvg-name="FX ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/fx-hd.png" group-title="CINE / SERIES | HD",FX ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/3270
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-name="CANAL 13 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/chile/canal-13-hd.png" group-title="CHILE",CANAL 13 ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/16777
 #EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us" tvg-name="CNN INT" tvg-logo="https://i.ibb.co/tXhxqhQ/Screenshot-17.png" group-title="NOTICIAS",CNN INT
 http://nxt.plus:8080/olmos/1234guz/53695
 #EXTINF:-1 tvg-id="DiscoveryHomeHealthSouth.cl" tvg-name="DISCOVERY H&H ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/discovery-home-health-hd.png" group-title="VARIEDADES",DISCOVERY H&H ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/57255
-#EXTINF:-1 tvg-id="AE.ar" tvg-name="A&E ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/ae-hd.png" group-title="CINE / SERIES | HD",A&E ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/58123
-#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="CNN EN ESPAÑOL ᴴᴰ" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_espanol.png" group-title="NOTICIAS",CNN EN ESPAÑOL ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/59075
 #EXTINF:-1 tvg-id="LaRed.cl" tvg-name="LA RED | CL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/chile/la-red-hd.png" group-title="CHILE",LA RED | CL ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/60563
-#EXTINF:-1 tvg-id="DiscoveryWorldHDPanregional.us" tvg-name="DISCOVERY WORLD ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/discovery-world-hd.png" group-title="CULTURA",DISCOVERY WORLD ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/1639
-#EXTINF:-1 tvg-id="Discovery.cl" tvg-name="DISCOVERY ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/discovery-hd.png" group-title="CULTURA",DISCOVERY ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/2826
 #EXTINF:-1 tvg-id="NationalGeographic.gt" tvg-name="NAT GEO  ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/nat-geo-hd.png" group-title="CULTURA",NAT GEO  ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/43549
+
 #EXTINF:-1 tvg-id="Mtv.la" tvg-name="MTV ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/musica/mtv-hd.png" group-title="MÚSICA",MTV ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/43548
 #EXTINF:-1 tvg-id="TelemundoCentralAmerica.us" tvg-name="TELEMUNDO INT ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/telemundo-int-hd.png" group-title="VARIEDADES",TELEMUNDO INT ᴴᴰ
