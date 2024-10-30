@@ -773,7 +773,7 @@ http://nxt.plus:8080/olmos/1234guz/13894
 #EXTINF:-1 tvg-id="HBOXtreme" tvg-name="HBO XTREME" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-xtreme.png" group-title="CINE / SERIES | SD",HBO XTREME
 http://nxt.plus:8080/olmos/1234guz/59123
 #EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO MUNDI" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series-sd/hbo-mundi.png" group-title="CINE / SERIES | SD",HBO MUNDI
-http://nxt.plus:8080/olmos/1234guz/187924
+http://nxt.plus:8080/olmos/1234guz/187924      
 #EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO+" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-plus.png" group-title="CINE / SERIES | SD",HBO+
 http://nxt.plus:8080/olmos/1234guz/43538
 #EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO POP" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series-sd/hbo-pop.png" group-title="CINE / SERIES | SD",HBO POP
